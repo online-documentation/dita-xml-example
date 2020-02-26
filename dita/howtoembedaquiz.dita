@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="howtoembedaquiz">
+  <title>How to Embed a Quiz</title>
+  <body>
+    <p>
+      You need to use QUIZ pseudo tag to embed a quiz into a topic and QUIZANSWERS tag for correct quiz answers (usually at the end of the printable doc). Of course you can place correct answers in HTML-based documentation as well, but it ruins experience for your users.
+    </p>
+    <p>
+    </p>
+    <p>
+      Optionally you can use editor drop down list to select a QUIZ and insert the tag in the place of caret.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Insert a quiz into a topic</title>
+        <image href="images/embedquiz.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Embed Quiz Answers into a topic</title>
+        <image href="images/ebedquizanswers.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

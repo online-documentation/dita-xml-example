@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="chm">
+  <title>CHM</title>
+  <body>
+    <p>
+      Helpinator uses Microsoft HTML Help compiler to compile CHM help files. You need to install it prior to compiling CHM, otherwise Helpinator will report error. You can download it from Microsoft website or install htmlhelp.exe from the same zip archive with Helpinator setup.
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator automatically generates &quot;Previous/Next&quot;, &quot;Breadcrumbs&quot; and &quot;See also&quot; lists.
+    </p>
+    <p>
+      If you have Glossary in your project - it will be compiled into CHM file as well.
+    </p>
+    <p>
+    </p>
+    <p>
+      To connect your CHM help file to your application you need to know Context IDs of topics. To get them in printed form you can run &quot;Topic Titles and IDs&quot; report under &quot;Reports&quot; node of the project tree view.
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>CHM - topic</title>
+        <image href="images/chm.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>CHM - index</title>
+        <image href="images/chm1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>CHM - Search</title>
+        <image href="images/chm2.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

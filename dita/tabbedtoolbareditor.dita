@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tabbedtoolbareditor">
+  <title>Tabbed Toolbar Editor</title>
+  <body>
+    <p>
+      Classic editor toolbar is too cluttered and overloaded so we introduced a little bit improved tabbed toolbar that has similar functions, divided into categories. It has 4 tabs: &quot;Write&quot;, &quot;Insert&quot;, &quot;Table&quot; and &quot;Tools&quot;.
+    </p>
+    <p>
+      <b/>
+    </p>
+    <p>
+      <b>&quot;Write&quot;</b>
+       tab has all basic writing functions like fonts, lists and etc.
+    </p>
+    <p>
+      <b>&quot;Insert&quot;</b>
+       tab allows to insert dedicated content pieces of Helpinator - Screenshots, text snippets, code snippets, step-by-step guides, videos, admonitions, faqs and quizzes.
+    </p>
+    <p>
+      <b>&quot;Table&quot; </b>
+      allows to insert and manipulate tables.
+    </p>
+    <p>
+      <b>&quot;Tools&quot;</b>
+       tab contains text processing tools like copy-paste, spellchecker and etc.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>&quot;Write&quot; Tab</title>
+        <image href="images/eng-ed-write.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>&quot;Insert&quot; tab</title>
+        <image href="images/eng-ed-insert.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>&quot;Table&quot; tab</title>
+        <image href="images/eng-ed-table.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>&quot;Tools&quot; tab</title>
+        <image href="images/eng-ed-tools.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

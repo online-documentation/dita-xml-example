@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="project">
+  <title>Project</title>
+  <body>
+    <p>
+      Project options define global project-wide settings.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Project Options</title>
+        <image href="images/projectoptions.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <table>
+        <title/>
+        <tgroup cols="2">
+          <colspec colname="colspec0"/>
+          <colspec colname="colspec1"/>
+          <tbody>
+            <row>
+              <entry>
+                <p>
+                  <b>Option</b>
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  <b>How it works</b>
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>
+                  Auto generate Context IDs
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  Helpinator will generate unique context ID every time you add a new topic or anchor
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>
+                  Auto Index
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  If this option is checked you don&apos;t need to assign keywords to each topic. Just fill the list of project keywords and Helpinator will assign them to topics automatically, based on topic content.
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>
+                  Auto number topics...
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  Helpinator will put sequential topic number in front of topic title when generating help files.
+                </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>
+    </p>
+    <p>
+      Clicking on &quot;PDF/Print settings&quot; opens up &quot;PDF settings&quot; dialog. First page &quot;General&quot; allows you to define special fields of PDF document.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>General Project Options</title>
+        <image href="images/projectoptions1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      The second acts both for PDF and for printed manuals. Here you can define margins, orientation and paper size.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>PDF Settings</title>
+        <image href="images/projectoptions2.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="usesnippet">
+  <title>How to use code snippets</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Click toolbar button</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/usesnippet1.png"/>
+          </p>
+          <p>
+            Locate &quot;Insert code snippet&quot; button on the topic editor toolbar and click it.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select snippet</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/usesnippet2.png"/>
+          </p>
+          <p>
+            Drop-down list of available code snippets appears. Select code snippet to insert.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Placeholder appears</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/usesnippet3.png"/>
+          </p>
+          <p>
+            Code snippet placeholder appears in the position of caret.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

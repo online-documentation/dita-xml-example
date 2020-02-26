@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="templates">
+  <title>Templates</title>
+  <body>
+    <p>
+      Helpinator has template engine that uses layout templates for all supported formats when producing help files and documentation. Generally layout templates are divided into two groups:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            HTML-based templates for producing CHM help files, WebHelp, QtHelp, JavaHelp and EPUB/MOBI.
+          </p>
+        </li>
+        <li>
+          <p>
+            RTF templates for producing RTF, PDF and printed manuals.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator comes with several predefined templates that you can use in your projects.
+    </p>
+    <p>
+    </p>
+    <p>
+      Templates are stored inside the project, so you need to add them first to allow Helpinator to use them.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Project templates</title>
+        <image href="images/projecttemplates.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Template nodes in the project tree view</title>
+        <image href="images/templatenodes.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

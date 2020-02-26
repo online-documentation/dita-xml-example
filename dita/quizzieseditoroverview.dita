@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="quizzieseditoroverview">
+  <title>Quizzes Editor Overview</title>
+  <body>
+    <p>
+      To activate Quiz Editor first select &quot;Quizzes&quot;  node in the project tree view. If it is not visible, then click &quot;Quizzes&quot; button on the project tree filter toolbar:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Filter Quizzes in the tree</title>
+        <image href="images/quizfilter.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Quizzes node</title>
+        <image href="images/quizzesnode.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      List of Quizzes looks like this:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Quiz list</title>
+        <image href="images/quizlist.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Double click a quiz in the list and the Quiz Editor appears:
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Quiz Question Editor</title>
+        <image href="images/quizeditor1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Quiz Answers Editor</title>
+        <image href="images/quizeditor2.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="multiplelanguages">
+  <title>Multiple languages</title>
+  <body>
+    <p>
+      Additional languages in your project affect:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Topic titles and content
+          </p>
+        </li>
+        <li>
+          <p>
+            Project and topic keywords
+          </p>
+        </li>
+        <li>
+          <p>
+            Glossary
+          </p>
+        </li>
+        <li>
+          <p>
+            Text snippets
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      <b>Important notice!</b>
+    </p>
+    <p>
+    </p>
+    <p>
+      To compile CHM help files with locale different from your default system locale you might need 
+      <b>SbAppLocale.exe</b>
+       tool. Microsoft CHM compiler is not always capable of compiling correct CHM files with other locales, for example it will fail to compile Cyrillic locales on US versions of Windows. 
+    </p>
+    <p>
+    </p>
+    <p>
+      The tool can be found here:
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://www.steelbytes.com/?mid=45" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      Download it and put into Helpinator installation folder.
+    </p>
+    <p>
+    </p>
+    <p>
+      To add languages to your project you can either use &quot;Add languages&quot; button in the &quot;New Project&quot; dialog or &quot;+&quot; sign on the main tool bar next to the language drop-down list.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Add Languages</title>
+        <image href="images/multiplelanguages.PNG" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

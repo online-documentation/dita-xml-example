@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="wysiwygeditor">
+  <title>Classic Toolbar WYSIWYG Editor</title>
+  <body>
+    <p>
+      Text authoring UI of Helpinator is similar to any other text processor. It has common text formatting toolbars, as well as Helpinator-specific object insertion commands, like &quot;insert code snippet&quot; and other. It also allows you to apply named text and paragraph styles to  selected text.
+    </p>
+    <p>
+    </p>
+    <p>
+      Images below show what each toolbar button is for:
+    </p>
+    <p>
+      <image href="images/eng-ed-toolbar.png" alt="eng-ed-toolbar.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/eng-ed-toolbar2.png" alt="eng-ed-toolbar2.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Below editor area there&apos;s topic settings tab set:
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/eng-ed-general.png" alt="eng-ed-general.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      Click &quot;...&quot; to open &quot;Topic keywords&quot; dialog. It allows to select from keywords already existing in the project, added new keywords manually or using a list of suggested keywords.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/ediytorkeywords.PNG" alt="ediytorkeywords.PNG"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/keywordseditor2.PNG" alt="keywordseditor2.PNG"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/keywordseditor3.PNG" alt="keywordseditor3.PNG"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      &quot;ToDo&quot; tab contains simple todo list of tasks assigned to this topic. Later on you can review all tasks assigned to all topics in global tasks manager (&quot;Tasks&quot; node of the project tree view) or using the report &quot;Tasks by topic&quot; that shows a list of tasks grouped by topic.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/eng-ed-todo.png" alt="eng-ed-todo.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Notes allows you to write down something related to this topic. This combined with &quot;COMMENT&quot; tag makes a good tool for text reviews.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/eng-ed-notes.png" alt="eng-ed-notes.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      Sometimes you need different HTML template for a topic (for example, default, title topic, with big company logo). You can select what template to use - default or maybe special template.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/eng-ed-template.png" alt="eng-ed-template.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      Anchors allow you to reference certain place in this topic, either using a hyperlink or context-sensitive help call using &quot;Context ID&quot;.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/eng-ed-anchors.png" alt="eng-ed-anchors.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      &quot;Skip topic&quot; tab allows you to skip current topic from output based on:
+    </p>
+    <p>
+      1. Condition - using variables. See &quot;Conditional compilation&quot; for more details.
+    </p>
+    <p>
+      2. Skip from certain formats. For example, when topic contains video, it should be exported to CHM and WebHelp, but not PDF and RTF.
+    </p>
+    <p>
+      3. Skip always - select this mode if this topic is not ready yet.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/eng-ed-skip.png" alt="eng-ed-skip.png"/>
+    </p>
+  </body>
+</topic>

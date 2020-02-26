@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="capturescreenshots">
+  <title>Capture screenshots</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Select &quot;Screenshots&quot; node</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/capturescreenshots.png"/>
+          </p>
+          <p>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Set up general options</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/capturescreenshots0.png"/>
+          </p>
+          <p>
+            Select wether you want to capture new image or REcapture (update) existing one. You can also specify image name mask, category to store it to and image format.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Create topics and guides</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/capturescreenshots1.png"/>
+          </p>
+          <p>
+            Check whether you want to create a new topic for captured image, append it to an existing topic, create new step-by-step guide or append to existing guide.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Additional capture options</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/capturescreenshots2.png"/>
+          </p>
+          <p>
+            You can select to capture only active window, entire desktop, area around mouse cursor, capture mouse pointer and background around capture window with effects.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="webhelp">
+  <title>Classic WebHelp</title>
+  <body>
+    <p>
+      WebHelp is a set of javascript-powered HTML pages with table of contents, index and search feature. Helpinator uses the same HTML template to compile topic pages that it uses to compile CHM, except it publishes JQuery UI theme from jqueryui.zip file.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>WebHelp - topic</title>
+        <image href="images/webhelp.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>WebHelp - index</title>
+        <image href="images/webhelp1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>WebHelp - search</title>
+        <image href="images/webhelp2.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

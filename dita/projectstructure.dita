@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="projectstructure">
+  <title>Project Structure</title>
+  <body>
+    <p>
+      The picture below shows Helpinator project structure.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Project Structure</title>
+        <image href="images/projectstruct.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      You are not forced to create all items shown above. In fact, you only need some topics and templates to create documentation.
+    </p>
+  </body>
+</topic>

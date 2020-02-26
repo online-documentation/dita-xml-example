@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="howtochangestyleoftheleftpane">
+  <title>How to Change Style of the Left Pane</title>
+  <body>
+    <p>
+      WebHelp is based on JQueryUI so you can use it&apos;s styles to change style of WebHelp template. Take a look at &quot;Additional Files&quot; section of default template. There you can see jqueryui.zip file. This file contains all required style data. The following steps show how to create your own:
+    </p>
+    <p>
+    </p>
+    <p>
+      1. Go to 
+      <xref href="http://jqueryui.com/themeroller/" scope="external"/>
+    </p>
+    <p>
+      2. Select colors that you like, then download corresponging zip archive
+    </p>
+    <p>
+      3. Unzip it
+    </p>
+    <p>
+      4. Create another folder were you will place working files
+    </p>
+    <p>
+      5. Go to &quot;CSS&quot; folder unzipped from the archive.
+    </p>
+    <p>
+      6. Copy images folder to your new folder
+    </p>
+    <p>
+      7. Copy jquery-ui-*.css to the root of our new folder, rename it to jqueryui.css
+    </p>
+    <p>
+      8. Go to &quot;js&quot; folder unzipped from the archive.
+    </p>
+    <p>
+      9. Copy jquery-ui-*.js file to the root of our new folder, rename it jqueryui.js
+    </p>
+    <p>
+      10. Zip our new folder (so jqueryui.css and jqueryui.js are in the root of the archive) and name it jqueryui.zip
+    </p>
+    <p>
+      11. Place it into &quot;default_files&quot; folder or your own template folder, say &quot;mytemplate_files&quot; or remove default file from project template and add your own instead of it.
+    </p>
+    <p>
+      12. Voila, you can compile WebHelp with your own color settings.
+    </p>
+  </body>
+</topic>

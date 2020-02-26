@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="recapturescreenshots">
+  <title>REcapture screenshots</title>
+  <body>
+    <p>
+      If you store all your screenshots in the image library of your project you can easily recapture screenshots. This saves you a lot of time because you don&apos;t need to capture screenshots, find topics that you need to update and insert new images instead of old ones. With Helpinator you only need to select &quot;REcapture&quot; mode in the screenshot tool and select image from the library to recapture. 
+      <b>Note that callouts remain the same</b>
+      , only image itself changes.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Recapture a Screenshot</title>
+        <image href="images/recapture.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

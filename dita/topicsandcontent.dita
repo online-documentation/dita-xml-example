@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topicsandcontent">
+  <title>Topics and Content</title>
+  <body>
+    <p>
+      Topics are the basis of your help project. Topics may contain formatted text, tables, images, code and text snippets, step-by-step guides. Topics have language-specific title, project-wide unique ID, context ID to connect to your app and a list of assigned keywords.
+    </p>
+    <p>
+    </p>
+    <p>
+      You can assign tasks and notes to topics for advanced management purposes. Topics also may be skipped from output based on a set of conditions.
+    </p>
+    <p>
+    </p>
+    <p>
+      Topic editor UI is similar to any other text processor UI with some additions related to Helpinator and help authoring in general.
+    </p>
+  </body>
+</topic>

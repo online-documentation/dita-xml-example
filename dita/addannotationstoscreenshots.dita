@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="addannotationstoscreenshots">
+  <title>Add annotations to screenshots</title>
+  <body>
+    <p>
+      You can add callouts and annotations to the images stored in the image library. Select an image and click &quot;Tools-&gt;Activate shape editor&quot;.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Activate Shape Editor</title>
+        <image href="images/editimage-shape.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Then select color style from &quot;Style&quot; selector and add any shape, arrow or callout you like.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Add callouts</title>
+        <image href="images/editimage.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

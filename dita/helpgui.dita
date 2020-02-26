@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="helpgui">
+  <title>HelpGUI</title>
+  <body>
+    <p>
+      HelpGUI is a lightweight help system for small Java applications. It has no keyword lookup or built-in search, but the best part is that it is small.
+    </p>
+    <p>
+    </p>
+    <p>
+      You can download it here:
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://helpgui.sourceforge.net/" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      To compile HelpGUI:
+    </p>
+    <p>
+    </p>
+    <p>
+      1. Download and install JDK
+    </p>
+    <p>
+      2. Set up Helpinator options for JDK just like in case of 
+      <xref href="#tB23A4E21844A4C3A925C7150AC9C4C15"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      Compiled HelpGUI help file looks like this:
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/helpgui.png" alt="helpgui.png"/>
+    </p>
+  </body>
+</topic>

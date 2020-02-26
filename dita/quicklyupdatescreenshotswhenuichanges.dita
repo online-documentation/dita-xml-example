@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="quicklyupdatescreenshotswhenuichanges">
+  <title>Quickly update screenshots when UI changes</title>
+  <body>
+    <p>
+      Helpinator has three main features that help you to update screenshots quickly:
+    </p>
+    <p>
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            <xref href="#tD1C9F4A436CF43E7A91897077A11B3C2"/>
+            . When you store all screenshots in the image library you don&apos;t need to browse through all topics to find screenshots that you need to alter.
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="#tCCEB031BC54849DE88CC0C021BADE432"/>
+            . This feature allows you to REcapture screenshots that are stored in the image library. Image name remains the same as well as added callouts/annotations.
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="#t5890F9CEE0ED4E1EAB467299DE7A456D"/>
+            . Clones share the same image with &quot;donor&quot; but each has it&apos;s own callouts/annotations. When UI changes you only need to update &quot;donor&quot; images and Helpinator updates clones automatically.
+          </p>
+        </li>
+      </ol>
+    </p>
+  </body>
+</topic>

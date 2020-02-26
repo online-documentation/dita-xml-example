@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="variables">
+  <title>Variables</title>
+  <body>
+    <p>
+      Variables play important part in Helpinator project:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            They contain info that changes frequently, like version number.
+          </p>
+        </li>
+        <li>
+          <p>
+            They are used in templates to insert product name, version, edition and etc, so you don&apos;t need to alter templates for that kind of stuff.
+          </p>
+        </li>
+        <li>
+          <p>
+            They help to control conditional compilation. You can get two different help files from the same source changing one or more variables before compilation.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      All variables are located on the &quot;Variables&quot; tab of Project Options.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Variables</title>
+        <image href="images/variables.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      &quot;Presets&quot; are the easy way to switch sets of variable values and are especially useful in conditional compilation.
+    </p>
+    <p>
+    </p>
+    <p>
+      In the example above variable &quot;EDITION&quot; has the value &quot;STD&quot; in the preset named &quot;STANDARD&quot; and &quot;PRO&quot; in the preset named &quot;PROFESSIONAL&quot;. Select active preset before compilation to set variable values.
+    </p>
+  </body>
+</topic>

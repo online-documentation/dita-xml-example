@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="checklinks">
+  <title>Check Links</title>
+  <body>
+    <p>
+      This tool allows you to find broken links in all topics of the project automatically. It shows a report grid with link details and a name of the topic where the broken link was found.
+    </p>
+    <p>
+      You can edit links right in the grid and then click &quot;Fix links&quot;. For each link you can select to:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Replace broken link with a new URL
+          </p>
+        </li>
+        <li>
+          <p>
+            Remove link
+          </p>
+        </li>
+        <li>
+          <p>
+            Skip this item during next check.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Check Links</title>
+        <image href="images/checklinks.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

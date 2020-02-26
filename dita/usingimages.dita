@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="usingimages">
+  <title>Using Images</title>
+  <body>
+    <p>
+      You can use images in one of the following ways:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Inside topics or other textual content pieces.
+          </p>
+        </li>
+        <li>
+          <p>
+            In step-by-step guides.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      Step-by-step guides have their own topic, here we&apos;ll talk about inserting images into topics.
+    </p>
+    <p>
+    </p>
+    <p>
+      You are not forced to use Image Library, you can add images into topics as in usual text processor, using the toolbar button shown below.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Insert inline picture</title>
+        <image href="images/useimage.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Inserting library images is not very different from it. Click on a toolbar button and select an image from the drop-down list. Note that images are grouped by category.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Insert Screenshot / Figure</title>
+        <image href="images/insertfigure.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Now when you change an image in the image library it is automatically updated in all topics that reference it.
+    </p>
+    <p>
+    </p>
+    <p>
+      There are other options available:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            <b>&quot;Insert Screenshot / Figure From File...&quot;</b>
+             - use it if you have an image on your hard drive and want to insert in the position of caret and into the project library at the same time.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>&quot;Paste screenshot from Clipboard&quot;</b>
+             - use it if the image is in clipboard, obtained by Ctrl-PrtScr or other screenshot capture tool.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>&quot;Quick search for an image&quot;</b>
+             - allows you to quickly locate image in the project library by it&apos;s name. How it works:
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Quick search for an image</title>
+        <image href="images/quicksearchforimage.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Type a part of image name into the edit box at the top of the window and it will filter out images that do not match the criteria. Now you can select one or more images with checkboxes and click &quot;Insert&quot; to place them in the position of caret.
+    </p>
+  </body>
+</topic>

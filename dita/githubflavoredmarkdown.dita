@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="githubflavoredmarkdown">
+  <title>GitHub-flavored Markdown</title>
+  <body>
+    <p>
+      Markdown is a plain-text format for writing rich formatted documents. Of course you can create Markdown files in any text editor but when it comes to handling large projects with images, tables, glossaries and how-to&apos;s, you definitely need a helper tool. Helpinator brings the power of a conventional help authoring tool to the world of Markdown!
+    </p>
+    <p>
+    </p>
+    <p>
+      GitHub-flavored markdown is a superset of regular markdown tailored to be used to document GitHub projects. Basically there are 3 ways you can use Markdown on GitHub:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            To create a readme.md file in your project root folder. This text GitHub shows when a user visits project page on GitHub.
+          </p>
+        </li>
+        <li>
+          <p>
+            To create a large project Wiki (&quot;Wiki&quot; tab of the project)
+          </p>
+        </li>
+        <li>
+          <p>
+            To create GitHub Pages - a static project website platform that you can link your own domain to. It is a kind of free website hosting limited to static sites.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      All 3 are Markdown files, but in the first case Helpinator will create a single markdown file from your project with project title and table of contents. In cases 2 and 3 Helpinator will create one markdown file per project topic, the difference is in file naming and TOC linking. Besides that Wiki mode allows to create a sidebar with table of contents for navigation. In all 3 cases images will be published into the &quot;images&quot; folder next to your markdown files, do not forget to commit this folder using git!
+    </p>
+    <p>
+    </p>
+    <p>
+      Click &quot;Github-flavored Markdown&quot; icon on the main toolbar, &quot;Export GitHub Markdown&quot; dialog appears.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/githubflavoredmarkdown3.PNG" alt="githubflavoredmarkdown3.PNG"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      <b>To generate README.MD</b>
+       file from your project select the first option &quot;Create readme.md&quot;. Here you can change file name of the output file and tell Helpinator that you want a project title and a table of contents included. If your project is small you can choose not to add the table of contents. Click OK and the file gets generated in the &quot;gitmarkdown&quot; sub folder in the folder where your project is stored.
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/githubflavoredmarkdown.PNG" alt="githubflavoredmarkdown.PNG"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <b>To prepare source files for project Wiki</b>
+       select the second option. You can choose to add optional sidebar with table of contents for navigation. Helpinator also creates required &quot;Home.md&quot; file that GitHub Wiki uses as a home page and places project title and table of contents in it. Click &quot;OK&quot; and commit generated files with &quot;images&quot; sub folder into the Wiki repository (it&apos;s name matches your project repository with &quot;.wiki&quot; postfix added to it).
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/githubflavoredmarkdown1.PNG" alt="githubflavoredmarkdown1.PNG"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      To create source files for GitHub Pages select the 3rd option. Helpinator creates one markdown file per topic plus &quot;index.md&quot; file with table of contents. You&apos;ll need to commit them to the root folder or &quot;docs&quot; sub folder of your repository and set up GitHub pages on the Settings tab of your repository.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/githubflavoredmarkdown2.PNG" alt="githubflavoredmarkdown2.PNG"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      Read this blog post for a more detailed tutorial on how to use Helpinator with GitHub markdown: 
+      <xref href="https://www.helpinator.com/blog/2019/09/23/publishing-github-pages-from-helpinator/" scope="external"/>
+    </p>
+  </body>
+</topic>

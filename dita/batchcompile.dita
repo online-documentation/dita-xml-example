@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="batchcompile">
+  <title>Batch Compile</title>
+  <body>
+    <p>
+      Clicking on toolbar icons to get output is time-consuming when you need multiple formats at once. That&apos;s why Helpinator allows you to create &quot;batches&quot; that consist of several &quot;tasks&quot;. Each task allows to compile selected output format with pre-selected language and variable preset and then save it to the specified location.
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator stores batches inside the project. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Batch Compile on the main Toolbar</title>
+        <image href="images/batchcompile1.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      When you click the drop-down arrow a list of batches saved to the project appears. You can click on a batch in the list to run it instantly.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>On-click execution of saved batches</title>
+        <image href="images/batchcompile3.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      When you click &quot;Batch Compile&quot; icon with a lightning bolt &quot;Batch Compile&quot; dialog appears. It allows to create a batch by adding output tasks to it (double click on desirable output format in the list on the left), set output destination path, language and variable preset.
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Batch Compile</title>
+        <image href="images/batchcompile.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Outputs are grouped by the purpose of the output format for convenience. To change extended settings of the output double-click the format item in the task list or click &quot;[Settings]&quot; link in the &quot;Settings&quot; column. If the output does not have extended settings then the cell in this column is empty.
+    </p>
+  </body>
+</topic>

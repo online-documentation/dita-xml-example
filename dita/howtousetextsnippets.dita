@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="howtousetextsnippets">
+  <title>How to use text snippets</title>
+  <body>
+    <p>
+      In this example we use &quot;warning&quot; box created in previous topic:
+    </p>
+    <p>
+    </p>
+    <p>
+      This text is for &quot;Warning&quot; box.
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/usetextsnippet.png" alt="usetextsnippet.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      How it will look like in CHM help file:
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/usetextsnippet1.png" alt="usetextsnippet1.png"/>
+    </p>
+  </body>
+</topic>

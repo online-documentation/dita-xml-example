@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="imagetools">
+  <title>Image Tools</title>
+  <body>
+    <p>
+      Image tools is a set of tools targeted at batch image transformation using project&apos;s image library.
+    </p>
+    <p>
+    </p>
+    <p>
+      Currently it has only one tool - &quot;Move Images To The Library&quot;. It allows you to move all images from topics into the project&apos;s image library thus allowing to edit, reuse and recapture them. This is useful when your project is partially a product of conversion/import.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Image Tools</title>
+        <image href="images/imagetools.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

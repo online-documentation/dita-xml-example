@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="compilingahelpfile">
+  <title>Compiling a help file</title>
+  <body>
+    <p>
+      OK, here we go. Everything is ready and we can now see our help file in all it&apos;s glory. We are going to compile a LiteHelp help file at this step. LiteHelp is a lightweight portable help system for desktop Windows apps created by Major Mind Software as a replacement for CHM (HTML Help).
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Compile LiteHelp</title>
+        <image href="images/tutorialcompilelitehelp.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Below is the &quot;Warning&quot; aside, rendered with exclamation icon and yellow background.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>&quot;Warning&quot; aside in LiteHelp.</title>
+        <image href="images/tutoriallitehelpaside.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Our step-by-step guide as a slideshow with navigation.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Step-by-step guide in LiteHelp</title>
+        <image href="images/tutoriallitehelpguide.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Glossary in LiteHelp</title>
+        <image href="images/tutoriallitehelpglossary.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

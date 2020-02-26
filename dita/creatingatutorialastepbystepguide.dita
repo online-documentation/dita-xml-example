@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="creatingatutorialastepbystepguide">
+  <title>Creating a tutorial (a step-by step guide</title>
+  <body>
+    <p>
+      Helpinator has built-in tutorial maker, that allows you to make tutorials from images in the project image library.
+    </p>
+    <p>
+    </p>
+    <p>
+      First off we need to prepare images for our tutorial. We already captured all application dialogs but added callouts to them that describe UI elements, not the tasks we need to document. So we&apos;ll use another Helpinator&apos;s unique feature and create &quot;cloned&quot; images from the images already in the library. This will allow us to add callouts exactly for our tutorial.
+    </p>
+    <p>
+    </p>
+    <p>
+      We are about to create a step-by-step guide that shows how to add a new task to the board.
+    </p>
+    <p>
+    </p>
+    <p>
+      For this purpose we will add several clones of the image that contains screenshot of &quot;Add a task&quot; dialog. This dialog has a number of edits and switches, so we will have to split the explanation into several steps. However it&apos;s impractical to use different images with the same screenshot. And it&apos;s hard to maintain. Helpinator allows to create &quot;cloned&quot; images of the same donor, so there&apos;s no need to manage more than one copy and we will need to update just one image when the dialog changes. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Manage images add clone</title>
+        <image href="images/tutorialimagelibaddclone.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      &quot;New cloned image&quot; dialog allows to add several clones of a donor image at once and store them to selected category. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>New cloned images</title>
+        <image href="images/tutorialnewclonedimages.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Now we can add callouts to the images of our tutorial on every step. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Add callouts.</title>
+        <image href="images/tutorialimgaddcallouts.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Callouts for attachments.</title>
+        <image href="images/tutorialimgaddcallouts2.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Callouts for checklists.</title>
+        <image href="images/tutorialimgaddcallouts3.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Now we can go and create a tutorial itself. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Manage guides</title>
+        <image href="images/tutorialaddguide.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Add guide dialog</title>
+        <image href="images/tutorialaddguidedialog.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Step images</title>
+        <image href="images/tutorialaddstepimages.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      By default tutorial steps have the same names as the images selected. We need to rename them and place in correct order. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Rename and reorder steps.</title>
+        <image href="images/tutorialguiderenamesteps.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Now you can write step text into the field below the step image.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Write step text</title>
+        <image href="images/tutorialguidewritetext.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      After all step texts are ready we can insert a placeholder for our tutorial into a corresponding topic. Topic named &quot;Tutorial&quot; in our case.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Insert guide using a toolbar</title>
+        <image href="images/tutorialinsertguide.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Guide in topic editor</title>
+        <image href="images/tutorialguideplaceholder.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

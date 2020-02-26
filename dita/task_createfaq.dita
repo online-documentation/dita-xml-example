@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="createfaq">
+  <title>Create a FAQ</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Select &quot;FAQ&quot; node</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createfaq1.png"/>
+          </p>
+          <p>
+            Select &quot;FAQs&quot; node in the project tree view.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Add a new FAQ</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createfaq2.png"/>
+          </p>
+          <p>
+            Click &quot;+&quot; sign to add a new FAQ.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Enter FAQ name</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createfaq3.png"/>
+          </p>
+          <p>
+            Enter short FAQ name to reference it.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Add a FAQ section</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createfaq4.png"/>
+          </p>
+          <p>
+            Click &quot;+&quot; sign under &quot;Sections&quot; group to add a new FAQ section.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Add a question</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createfaq5.png"/>
+          </p>
+          <p>
+            Click &quot;+&quot; sign under &quot;Questions&quot; group to add a new question.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Edit question</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createfaq8.png"/>
+          </p>
+          <p>
+            Edit question text and answer. Question text is plain text, answer is rich text like any topic.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Embed</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createfaq10.png"/>
+          </p>
+          <p>
+            You can embed your newly created FAQ into a topic with FAQ pseudo tag. It will be replaces with an actual FAQ at compile time.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

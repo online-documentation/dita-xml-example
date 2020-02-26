@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tutorial">
+  <title>Tutorial</title>
+  <body>
+    <p>
+      This tutorial will show you how to create a simple help file for your application using Helpinator Help Authoring Tool. It covers basic steps without drilling deep into advanced features, so you will get a clear understanding of what Helpinator is about without unnecessary information.
+    </p>
+    <p>
+    </p>
+    <p>
+      In this tutorial we&apos;ll create a help file for another our product called &quot;
+      <xref href="https://www.minikanban.com" scope="external"/>
+      &quot;: 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>MiniKanban tool</title>
+        <image href="images/tutorialminikanban.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

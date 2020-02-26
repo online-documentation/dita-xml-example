@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="howtochangeorderandhierarchyoftopicsquickly">
+  <title>Change order and hierarchy of topics quickly</title>
+  <body>
+    <p>
+      Version 3.11.3 introduces new feature called &#x201C;Advanced rearrange&#x201D;. It allows to quickly change order, titles and hierarchy of multiple topics at once. Normally Helpinator allows to change order of topics and their position in the topic tree by dragging and dropping topics in the topic manager. It is good for a topic or two but is very uncomfortable and time-consuming when you need to change places of several topics in a large project (say, after mass-importing html/rtf files).
+    </p>
+    <p>
+      To activate this feature select &#x201C;Topics&#x201D; node and click the button shown on the image below.
+    </p>
+    <p>
+      <fig>
+        <title>Rearrange topics</title>
+        <image href="images/rearrange-button.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+      It opens up &#x201C;Advanced rearrange&#x201D; window. This window is a simple plain text editor with a topics tree converted to it&#x2019;s plain text representation. Each line has a topic title and topic id in brackets at the end of the line. If a topic is a subtopic, it&#x2019;s line starts with a TAB (one for level 1 subtopics, two TABS for level 2 and so on).
+    </p>
+    <p>
+      <fig>
+        <title>Advanced Rearrange</title>
+        <image href="images/advanced-rearrange.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      What you can do here:
+    </p>
+    <p/>
+    <p>
+      Cut/Paste topics en masse. Select several lines with your mouse or Shift+cursor, click Ctrl+X to cut them, place cursor into their new location and click &#x201C;Ctrl+V&#x201D; to paste. 
+    </p>
+    <p/>
+    <p>
+      Change levels &#x2013; just insert/remove TABs at the beginning of the line. To move several topics to another level (e.g. to insert TAB into several lines) select them as told above and click &#x201C;Increase Level&#x201D;. This will insert TABs into several lines at once. &#x201C;Decrease level&#x201D; works the same way. 
+    </p>
+    <p/>
+    <p>
+      Rename topics. It&#x2019;s OK to change topic titles as long as you keep ID part at the end of each line intact.
+    </p>
+    <p>
+      What you CAN&#x2019;T do:
+    </p>
+    <p/>
+    <p>
+      Change or delete topic IDs. They are used for identification, so it will cause an error. 
+    </p>
+    <p/>
+    <p>
+      Delete topics &#x2013; to delete topics please use corresponding command of the topic manager. Deleting topics here will cause an error. 
+    </p>
+    <p/>
+    <p>
+      Add new topics &#x2013; the same as with &#x201C;Delete topics&#x201D; issue, use &#x201C;Add topics&#x201D; command from the topic manager.
+    </p>
+  </body>
+</topic>

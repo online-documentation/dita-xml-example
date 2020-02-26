@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="analyticsandsocialintegration">
+  <title>Analytics and Social Integration</title>
+  <body>
+    <p>
+      Helpinator allows you to add 
+      <b>Google Analytics</b>
+      , 
+      <b>AddThis</b>
+       and 
+      <b>Disqus</b>
+       integration to WebHelp without altering HTML templates. All you need to do is to paste integration code provided by these services into corresponding project options.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>WebHelp analytics and social integration</title>
+        <image href="images/webhelp4.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

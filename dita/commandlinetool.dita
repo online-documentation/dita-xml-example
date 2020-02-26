@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="commandlinetool">
+  <title>Command line tool</title>
+  <body>
+    <p>
+      Helpinator comes with command-line compiler 
+      <b>chelpinator.exe</b>
+       that you can use in batch files (.bat, .cmd).
+    </p>
+    <p>
+      It has the following parameters:
+    </p>
+    <p>
+      <b>chelpinator.exe &lt;projectfile&gt; &lt;batchname&gt;</b>
+    </p>
+    <p>
+      &lt;projectfile&gt; (required) - full path to the Helpinator project you are about to compile.
+    </p>
+    <p>
+      &lt;batchname&gt; (required) - name of the batch saved to the project file.
+    </p>
+    <p>
+      <u>Example.</u>
+    </p>
+    <p>
+      Suppose path to your project is C:\Project\Help\myproject.hpz.
+    </p>
+    <p>
+      You need to compile PDF help from it and place it into C:\PDF folder. You have variable preset &quot;pro&quot; and want to use it. You have several languages in the project and you want to use &quot;English (United States)&quot;
+    </p>
+    <p>
+      You need to do the following:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Click on the lightning bolt icon on the main toolbar
+          </p>
+        </li>
+        <li>
+          <p>
+            Click &quot;New batch&quot;
+          </p>
+        </li>
+        <li>
+          <p>
+            Double-click PDF output on the left to add it to the batch
+          </p>
+        </li>
+        <li>
+          <p>
+            Set output path to &quot;C:\PDF&quot;
+          </p>
+        </li>
+        <li>
+          <p>
+            Save the batch with a meaningful name like &quot;mypdf&quot;.
+          </p>
+        </li>
+        <li>
+          <p>
+            Save proejct file.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      Now you can call command line compiler to produce PDF:
+    </p>
+    <p>
+      chelpinator.exe &quot;C:\Project\Help\myproject.hpz&quot; &quot;mypdf&quot;
+    </p>
+  </body>
+</topic>

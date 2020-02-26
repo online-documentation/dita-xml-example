@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="localizinghelpfiles">
+  <title>Localizing help files</title>
+  <body>
+    <p>
+      Helpinator allows you to create multi-lingual help projects. You can store all languages in one project file, preserving project structure and topic context IDs across all supported languages. Thus you don&apos;t need to manage separate help projects for all UI languages supported.
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator localization capabilities stand on three whales:
+    </p>
+    <p>
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            <xref href="#t3E5559AC26AE4D44B78539A8B90DE344"/>
+             in one project file
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="#tE081B048D0C44084A890B0E9DFD950E0"/>
+             that allow to translate templates
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="#tD976A904531B4F22AEFDF1619CC922C9"/>
+             that allows to communicate with translation services and software.
+          </p>
+        </li>
+      </ol>
+    </p>
+  </body>
+</topic>

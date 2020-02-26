@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="guidestyles">
+  <title>Guide Styles</title>
+  <body>
+    <p>
+      Guide styles allow you to change appearance of Step-by-step Guides in compiled documentation. Most of it Helpinator uses only when compiling CHM and WebHelp, PDF/RTF/Printed Manuals do not use &quot;slideshow&quot; effect, so only font settings will be taken into account when compiling them.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Guide Styles</title>
+        <image href="images/styles4.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      CSS tab contains highlighted CSS code that will be inserted into HTML-based help output (CHM and WebHelp).
+    </p>
+    <p>
+      Here you have more control over Guide appearance in this kind of documentation, but be careful.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>CSS of Guide Styles</title>
+        <image href="images/styles5.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      To use your newly created guide style select it from corresponding drop-down list in the guide options area.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Assign new style to a guide</title>
+        <image href="images/selguidestyles.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

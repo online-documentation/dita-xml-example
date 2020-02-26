@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="about">
+  <title>About</title>
+  <body>
+    <p>
+      Helpinator is an integrated documentation development environment with accent on productivity.
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator is a single source tool. You can compile 
+      <b>CHM</b>
+      , 
+      <b>PDF</b>
+      , 
+      <b>RTF</b>
+      , 
+      <b>DOCX</b>
+      , 
+      <b>WebHelp (Classic and New WebHelp2)</b>
+      , 
+      <b>Knowledge Bases,</b>
+       
+      <b>Mobile</b>
+      ,
+      <b> GitHub-flavored Markdown</b>
+      , 
+      <b>Printed Manuals</b>
+      , 
+      <b>EPUB</b>
+       and 
+      <b>MOBI</b>
+       ebooks, 
+      <b>JavaHelp</b>
+      , 
+      <b>OracleHelp</b>
+      , 
+      <b>HelpGUI, LeanPub, DocBook, DITA, ASCIIDoc, reStructuredText, MajorMindHelp, LiteHelp and plaintext readme</b>
+       all from single source. You can even create software documentation 
+      <b>WordPress themes</b>
+       and publish your online documentation to 
+      <b>WordPress</b>
+      !
+    </p>
+    <p>
+      Helpinator is a WYSIWYG tool. Write content in a friendly environment.
+    </p>
+    <p>
+      Helpinator is multilingual. You can have as many project languages as you wish. Work with any translation service you wish using &quot;XML Import/Export.&quot;
+    </p>
+    <p>
+      Helpinator has a set of unique features like embeddable step-by-step guides, FAQs and self-checkup quizzes.
+    </p>
+    <p>
+    </p>
+    <p>
+      Major Mind Software provides MajorMindHelpViewer and LiteHelpViewer free of charge if your content was generated using Helpinator. 
+    </p>
+    <p>
+    </p>
+    <p>
+      There&apos;s a features tour on our website: 
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="https://www.helpinator.com/benefits.html" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

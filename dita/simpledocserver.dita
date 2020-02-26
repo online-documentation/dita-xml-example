@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="simpledocserver">
+  <title>SimpleDocServer</title>
+  <body>
+    <p>
+      <b>SimpleDocServer</b>
+       is a simple markdown-based web server for light in-house company documentation. It is very easy to install, has almost zero administration and maintenance costs. You can read more about this product here: 
+      <xref href="http://www.helpinator.com/simpledocserver.html" scope="external"/>
+       Though you can easily author SimpleDocServer content in any text editor since it uses markdown, Helpinator allows to author content more conveniently. Also it allows you to create context ids for topics so you will be able to use your SimpleDocServer content as a source of context-sensitive help via 
+      <xref href="#t267836CF2026406C80E4FE41ECB548B5"/>
+      .
+    </p>
+  </body>
+</topic>

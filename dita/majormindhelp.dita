@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="majormindhelp">
+  <title>MajorMindHelp</title>
+  <body>
+    <p>
+      MajorMindHelp is our own help system for Windows applications. It is based on MajorMindHelpViewer - a viewer utility that is more than just a CHM-alike help system. You can read more about it in topic 
+      <xref href="#t267836CF2026406C80E4FE41ECB548B5"/>
+      .
+    </p>
+    <p>
+    </p>
+    <p>
+      Main features:
+    </p>
+    <p>
+      1. HTML-based, full-featured help system.
+    </p>
+    <p>
+      2. Compiles right into Delphi application, no standalone files or help systems required
+    </p>
+    <p>
+      3. No problems with CHM help files security
+    </p>
+    <p>
+      4. No problems with WebHelp cross-browser compatibility and security settings.
+    </p>
+    <p>
+      5. Multilingual. All languages are in one help file and they can be easily switched between.
+    </p>
+    <p>
+      6. Transparent help file format - just a zip file with HTML and XML in it.
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator compiles MajorMindHelp directly, without any other tools.
+    </p>
+    <p>
+    </p>
+    <p>
+      Compiled Help looks like this:
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/majormindhelp.png" alt="majormindhelp.png"/>
+    </p>
+  </body>
+</topic>

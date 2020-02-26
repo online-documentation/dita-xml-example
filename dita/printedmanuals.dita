@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="printedmanuals">
+  <title>Printed Manuals</title>
+  <body>
+    <p>
+      Printed manuals act the same way and use the same template and settings as PDF format output, but instead of a file pages are sent directly to printer. When you click &quot;Create printed manual&quot; Helpinator shows you &quot;Preview&quot; dialog with pages that are about to be printed. You can navigate them, zoom in and out, and when you are satisfied - click on &quot;Print&quot; to print them.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Printed Manual</title>
+        <image href="images/print.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

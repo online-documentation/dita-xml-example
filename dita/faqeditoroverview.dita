@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="faqeditoroverview">
+  <title>FAQ Editor Overview</title>
+  <body>
+    <p>
+      To open up FAQ editor first select the FAQ node in the project tree view. If there is no &quot;FAQ&quot; node check out the FAQs are not filtered out from project view, corresponding button on the leftmost toolbar should be checked.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>FAQ filter button</title>
+        <image href="images/filtertoolbar.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>FAQs node</title>
+        <image href="images/faqsnode.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      List of FAQs looks like this:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>List of FAQs</title>
+        <image href="images/faqlist.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Double click a FAQ and FAQ editor appears:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>FAQ Editor</title>
+        <image href="images/faqeditor.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Edit Questions</title>
+        <image href="images/faqeditor2.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

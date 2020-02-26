@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="customizingappearace">
+  <title>Adapt to your website</title>
+  <body>
+    <p>
+      Helpinator allows you to adapt WebHelp to your website design. There&apos;s &quot;WebHelp&quot; tab in the CHM/WebHelp template editor with two groups: &quot;Header&quot; and &quot;Footer&quot;. There you can paste HTML code that will be shown above and below WebHelp panes.
+    </p>
+    <p>
+    </p>
+    <p>
+      Example can be seen in Helpinator&apos;s own WebHelp:
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://www.helpinator.com/webhelp" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Adapt WebHelp to your site</title>
+        <image href="images/webhelp3.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

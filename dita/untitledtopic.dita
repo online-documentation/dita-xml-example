@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="untitledtopic">
+  <title>WebHelp - Bootstrap</title>
+  <body>
+    <p>
+      WebHelp-Bootstrap is WebHelp output like WebHelp-JQueryUI, but based on Bootstrap framework instead. If your web site or SaaS is built on Bootstrap you can provide docs that use the same framework lessening the dependencies.
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator&apos;s own WebHelp system runs on it: 
+      <xref href="https://www.helpinator.com/webhelp/" scope="external"/>
+    </p>
+  </body>
+</topic>

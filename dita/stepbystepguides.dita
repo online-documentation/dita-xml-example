@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="stepbystepguides">
+  <title>Step-by-step Guides</title>
+  <body>
+    <p>
+      Step-by-step guides allow you to document procedures that users have to follow to accomplish certain task. Each guide consists of steps. You can add as many steps as you want, but it&apos;s a good idea to limit yourself to 10-15. Each step has:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Title
+          </p>
+        </li>
+        <li>
+          <p>
+            Descriptive text about actions to perform on this step
+          </p>
+        </li>
+        <li>
+          <p>
+            Image from project&apos;s Image Library. You can use plain images/screenshots, but it&apos;s better to 
+            <xref href="#t449D3E1738EB47318F5179EFB4010186"/>
+            . If your guide uses lots of similar images with different annotations - then you might want to use 
+            <xref href="#t5890F9CEE0ED4E1EAB467299DE7A456D"/>
+             for steps.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator stores all guides in a place similar to Image Library.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Manage guides</title>
+        <image href="images/manageguides.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="screenshots">
+  <title>Screenshots</title>
+  <body>
+    <p>
+      &quot;Screenshots&quot; tool allows you to capture screenshots, store them to the project&apos;s image library, create new topics and guides with captured images and more.
+    </p>
+    <p>
+    </p>
+    <p>
+      At the top of the window there are hotkey selector and start/stop button to start capture process.
+    </p>
+    <p>
+    </p>
+    <p>
+      Below is the settings tab set.
+    </p>
+    <p>
+      &quot;General&quot; tab allows you to select whether you want to capture new image and put it into specific category or recapture existing image.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Screenshot Tool</title>
+        <image href="images/screenshots.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      &quot;Create topics and guides&quot; tab allows you to create content elements when a new screenshot is captured.
+    </p>
+    <p>
+      You can:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Create new topic containing captured image
+          </p>
+        </li>
+        <li>
+          <p>
+            Append captured image to existing topic
+          </p>
+        </li>
+        <li>
+          <p>
+            Create a new step-by-step guide. The new guide will be created on the first capture after you click &quot;Start&quot;. All captures after that will be appended to this guide.
+          </p>
+        </li>
+        <li>
+          <p>
+            Append to Guide - newly captured images will be added as new steps to existing guide.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Screenshot - create topics and guides</title>
+        <image href="images/screenshots1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      &quot;Region and background&quot; tab allows you to select what you want to capture.
+    </p>
+    <p>
+      You can:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Capture active window only
+          </p>
+        </li>
+        <li>
+          <p>
+            Capture entire desktop area
+          </p>
+        </li>
+        <li>
+          <p>
+            Capture rectangular area around mouse cursor. In this mode you have to specify offsets in pixels from current mouse position that define rectangular area.
+          </p>
+        </li>
+        <li>
+          <p>
+            Capture mouse cursor - allows to put current mouse cursor on the screenshot.
+          </p>
+        </li>
+        <li>
+          <p>
+            Capture background - allows to capture rectangular area surrounding current capture rectangle. You can specify what part of the background to capture, effects to apply to it (you might want to darken or blur it) and make capture rectangle to &quot;drop shadow&quot; on background.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Screenshots - capture region</title>
+        <image href="images/screenshots2.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

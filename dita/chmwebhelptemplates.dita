@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="chmwebhelptemplates">
+  <title>HTML-based Templates</title>
+  <body>
+    <p>
+      Each CHM/WebHelp template consists of two file groups:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Required files. Usually templates&apos; main HTML page template and corresponding CSS file.
+          </p>
+        </li>
+        <li>
+          <p>
+            Additional files. Images used by template, scripts and etc.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      In predefined templates there&apos;s jqueryui.zip file that contains JQuery UI theme for WebHelp (left pane with TOC, Index and Search). Inside it there&apos;s jqueryui.css and jqueryui.js files and &quot;images&quot; folder with images used by this theme.
+    </p>
+    <p>
+    </p>
+    <p>
+      HTML templates use several tags, enclosed in {%%}:
+    </p>
+    <p>
+      <table>
+        <title/>
+        <tgroup cols="2">
+          <colspec colname="colspec0"/>
+          <colspec colname="colspec1"/>
+          <thead>
+            <row>
+              <entry>
+                <p>
+                  <b>Tag</b>
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  <b>Meaning</b>
+                </p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>
+                  TITLE
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  Title of the current topic
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>
+                  BREADCRUMBS
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  Place for breadcrumbs links
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>
+                  PREVNEXTTOPIC
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  Links to previous and next topics, combined
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>
+                  PREVTOPIC
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  Link to previous topic
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>
+                  NEXTTOPIC
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  Link to next topic
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>
+                  PREVTOPIC_INCL
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  Link to previous topic, but instead of &quot;Previous&quot; text it uses HTML between this tag and END_PREVTOPIC_INCL tag.
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>
+                  NEXTTOPIC_INCL
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  Same as above but for next topic
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>
+                  SEEALSO
+                </p>
+              </entry>
+              <entry>
+                <p>
+                  Lists related topics based on keywords match.
+                </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>
+    </p>
+    <p>
+      You can also use project variables inside templates.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>HTML templates</title>
+        <image href="images/htmltemplates.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Inside an HTML template</title>
+        <image href="images/htmltemplates1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <b>Adapting WebHelp to your website</b>
+    </p>
+    <p>
+    </p>
+    <p>
+      You can also adapt WebHelp appearance to the style of your website using WebHelp header and footer. This fields are not required, if empty WebHelp will fill entire browser page. When filled, header and footer will appear in separate frames.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>WebHelp Addons</title>
+        <image href="images/htmltemplates2.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="leanpub">
+  <title>LeanPub</title>
+  <body>
+    <p>
+      <xref href="https://www.leanpub.com" scope="external"/>
+       is a well-designed and feature-rich platform for publishing ebook and paperback books combined with a digital storefront to sell your books.
+    </p>
+    <p>
+      It allows to author your books in plain text, using LeanPub-flavored markdown. Helpinator allows to generate markdown source project for your LeanPub book from your project.
+    </p>
+    <p>
+      You can then upload generated content to DropBox or GitHub and allow LeanPub to consume it.
+    </p>
+    <p>
+    </p>
+    <p>
+      To generate LeanPub source project (manuscript) you can do the following:
+    </p>
+    <p>
+    </p>
+    <p>
+      Select &quot;Compile LeanPub book&quot; from the &quot;Tools&quot; menu.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Tools - Compile LeanPub</title>
+        <image href="images/toolscompileleanpub.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      or create a batch with this command:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>LeanPub batch compile</title>
+        <image href="images/leanpubbatchcompile.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+      <u/>
+    </p>
+    <p>
+      There&apos;s a post on our blog that covers in detail the whole process of publishing your project on LeanPub: 
+      <xref href="https://www.helpinator.com/blog/2019/08/23/leanpub-tutorial-publishing-your-book-using-helpinator/" scope="external"/>
+    </p>
+    <p>
+      <u/>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="storagemodes">
+  <title>Storage Modes</title>
+  <body>
+    <p>
+      Helpinator has two storage modes:
+    </p>
+    <p>
+      1. Single-file mode. Everything is in one zip-compatible project file with .hpz extension. Good if you don&apos;t use VCS system or want to deal with one file.
+    </p>
+    <p>
+      2. VCS-friendly mode. In this mode Helpinator stores every item in a separate file (or several files) and updates only changed files. So you don&apos;t need to check-in entire project every time you change something.
+    </p>
+    <p>
+    </p>
+    <p>
+      Modes are interchangeable. You can zip project folder (with project.xml in the root) and change extension from zip to hpz and work with your project in single-file mode. Or you can extract everything from hpz file and work in VCS-friendly mode.
+    </p>
+  </body>
+</topic>

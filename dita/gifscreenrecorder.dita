@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="gifscreenrecorder">
+  <title>GIF Screen Recorder</title>
+  <body>
+    <p>
+      GIF Screen recorder allows to record short animated GIF files instead of static screenshots. You can select what area do you want to record - fixed rectangle around the mouse cursor or an active window and redefine a shortcut that starts and stops recording.
+    </p>
+    <p>
+      When you finish recording captured frames appear in the &quot;Preview&quot; area. If you are happy with it you can click &quot;Create GIF&quot; and store the file in the project&apos;s Image Library.
+    </p>
+    <p>
+      Later you can use it in topics and step-by-step guides.
+    </p>
+    <p>
+      However, remember that animated files break single-sourcing, PDF and printed manuals allow only static images.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>GIF Screen Recorder</title>
+        <image href="images/gifrec.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

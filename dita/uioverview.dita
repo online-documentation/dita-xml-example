@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="uioverview">
+  <title>UI Overview</title>
+  <body>
+    <p>
+      Helpinator has classical explorer-like UI with open/compile project buttons on the main toolbar and all project items organized in the project tree view.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>UI Overview</title>
+        <image href="images/uioverview.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

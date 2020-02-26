@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="understandingprofiles">
+  <title>Understanding Profiles</title>
+  <body>
+    <p>
+      &quot;Knowledge Base&quot; generator settings are organised into &quot;profiles&quot;. Profile allows you to set unique KB structure that may not match structure of your project. 
+    </p>
+    <p>
+      Helpinator project is based around topic tree with unlimited levels, KB structure has 2 layers max: Categories and Articles. Helpinator allows 2 modes for structure transformation:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Automatic mode. In this case all first level topics become categories (their content will not appear in the KB), all lower level topics are combined into a plain list under that category.
+          </p>
+        </li>
+        <li>
+          <p>
+            Manual mode. Allows to define categories then selectively add topics to them and rearrange.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      &quot;Structure&quot; tab of profile settings allow to select the mode and do manual operations.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/kb1.png" alt="kb1.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Knowledge base has a sidebar with lists of &quot;Popular&quot; and &quot;Recently updated&quot; articles. To fill these lists you can use Auto/Manual modes too. Auto mode is equivalent to random in this case.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/kb2.png" alt="kb2.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/kb2-2.png" alt="kb2-2.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/kb3.png" alt="kb3.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/kb3-2.png" alt="kb3-2.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      You can also define your KB title and tagline or use project title as KB title.
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/kb4.png" alt="kb4.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

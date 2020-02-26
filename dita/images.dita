@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="images">
+  <title>Images</title>
+  <body>
+    <p>
+      There are two ways to use images in Helpinator:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Regular images, embedded into topics
+          </p>
+        </li>
+        <li>
+          <p>
+            Library images, stored in the project&apos;s Image Library and referenced from one or more topics.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      The first one is similar to other Help Authoring Tools and text processors
+    </p>
+    <p>
+      The second is far more efficient from the productivity point of view, since all your images are in one place and you don&apos;t need to browse through project topics to update them when something changes in your program&apos;s UI. Beside that:
+    </p>
+    <p/>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Image Library allows you to add annotations to images, so you can make more understandable help files.
+          </p>
+        </li>
+        <li>
+          <p>
+            Image library allows you to create &quot;cloned&quot; images. Clones are exact copies of &quot;donors&quot; and update the same moment you update &quot;donor&quot; image. But they have different annotations, so you can create a bunch of images with different annotations from the same screenshot. Once UI changes you only have to update one image and the rest will be updated automatically!
+          </p>
+        </li>
+        <li>
+          <p>
+            Image Library has categories for images, so it is easy to manage a large project with a lot of images in it.
+          </p>
+        </li>
+        <li>
+          <p>
+            You can create &quot;step-by-step guides&quot; from images stores in the image library.
+          </p>
+        </li>
+      </ul>
+    </p>
+  </body>
+</topic>

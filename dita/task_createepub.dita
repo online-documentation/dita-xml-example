@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="createepub">
+  <title>Create EPUB and MOBI ebooks</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Select &quot;HTML-based templates&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createepub.png"/>
+          </p>
+          <p>
+            Select &quot;HTML-based templates&quot; node in the project tree view and check for &quot;epubmobi-default.html&quot; template. If it is in place, proceed to step 5.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Add template&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createepub1.png"/>
+          </p>
+          <p>
+            Click &quot;+&quot; to add epub-mobi template. IF you can see it in the list, you don&apos;t need to add it.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select epub-mobi template</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createepub2.png"/>
+          </p>
+          <p>
+            Select &quot;epub-mobi&quot; template from the list and click &quot;OK&quot;
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Set epub-mobi template</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createepub3.png"/>
+          </p>
+          <p>
+            Select root node in the project tree view and browse to &quot;Templates&quot; tab, then select &quot;epub-mobi&quot; template from drop-down lists for EPUB and MOBI formats.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Compile EPUB</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createepub4.png"/>
+          </p>
+          <p>
+            Now you can click &quot;Compile EPUB&quot; to create epub file. To compile MOBI you need to take some more steps.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Download KindleGen</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createmobikindlegen.png"/>
+          </p>
+          <p>
+            To compile MOBI you need to download and install KindleGen - free command-line tool from Amazon that allows to create MOBI ebooks.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Set path to KindleGen</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/enoptionskindlecompiler.png"/>
+          </p>
+          <p>
+            Select Main Menu -&gt; Tools -&gt; Options and enter path to KindleGen utility.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Compile MOBI</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createepubkindle.png"/>
+          </p>
+          <p>
+            Now you can click &quot;Compile MOBI&quot; to create mobi file.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

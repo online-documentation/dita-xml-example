@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="managetopics">
+  <title>Manage Topics</title>
+  <body>
+    <p>
+      Topic manager resides under &quot;Topics&quot; node of the project tree view.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Manage Topics</title>
+        <image href="images/managetopics.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      When you click &quot;Add several topics&quot; separate dialog box appears:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Add several topics</title>
+        <image href="images/addsevtopics.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Here you can add a bunch of topics as children of the selected topic and also with hierarchy. Just start new levels with TAB.
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

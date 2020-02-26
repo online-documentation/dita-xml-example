@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="xmlimportexport0">
+  <title>XML Import/Export</title>
+  <body>
+    <p>
+      XML Import/Export allows you to communicate with translation services and software. In general the procedure is as follows:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Say you have a one-language project with &quot;English&quot; default language.
+          </p>
+        </li>
+        <li>
+          <p>
+            Add new language, for example &quot;German&quot; and check to copy default language to it.
+          </p>
+        </li>
+        <li>
+          <p>
+            Export XML using &quot;Main Menu-&gt;File-&gt;Export XML&quot;. Select &quot;German&quot; language and folder to export files to.
+          </p>
+        </li>
+        <li>
+          <p>
+            Helpinator will create a set of XML files with topics, keywords and glossary terms.
+          </p>
+        </li>
+        <li>
+          <p>
+            Send this files to your translation service or translate it with translation software.
+          </p>
+        </li>
+        <li>
+          <p>
+            Import translated XML back using &quot;Main Menu-&gt;File-&gt;Import XML&quot;. Select &quot;German&quot; as destination language and a folder where XML files are located.
+          </p>
+        </li>
+      </ol>
+    </p>
+  </body>
+</topic>

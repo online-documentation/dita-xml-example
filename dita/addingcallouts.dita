@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="addingcallouts">
+  <title>Adding callouts</title>
+  <body>
+    <p>
+      Now let&apos;s add some callouts to the screenshots. Select an image to work on take a look at shapes toolbar.
+    </p>
+    <p>
+      Select shape style (we use &quot;Red and Yellow&quot; here). Click on rectangle shape on the toolbar and draw it where you want callout to appear. Now select &quot;Arrow&quot; shape and connect rectangle with a target element, in our case the toolbar buttons. Double click the rectangle and enter text into &quot;Caption&quot; field. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Activate editor</title>
+        <image href="images/tutorialimagesactivateeditor.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Add caption</title>
+        <image href="images/callout-add-caption.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

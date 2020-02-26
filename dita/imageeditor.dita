@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="imageeditor">
+  <title>Image Editor</title>
+  <body>
+    <p>
+      Helpinator has built-in image editor that allows you to add arrows, boxes with text and other useful content to images in the project&apos;s image library.
+    </p>
+    <p>
+      Image editor is fairly simple to use. The figure below explains pretty much everything. Select shape style (or &quot;None&quot; if you do not need it), shape on the toolbar and drop it somewhere.
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Image editor explained</title>
+        <image href="images/editimage.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      The &quot;Tools&quot; menu of the image editor has some handy commands you can use:
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Image editor tools</title>
+        <image href="images/editimage-shape.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p/>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Extend image canvas - allows to make a screenshot larger by adding extra blank space.
+          </p>
+        </li>
+        <li>
+          <p>
+            Show grid - shows shape alignment grid - disable it if it annoys you.
+          </p>
+        </li>
+        <li>
+          <p>
+            Replace Image (From File) - replace the image bitmap/background using the selected file. 
+            <u>Shapes will stay intact.</u>
+          </p>
+        </li>
+        <li>
+          <p>
+            Replace Image (From Clipboard) - replace the image bitmap/background using the image currently in the Clipboard. 
+            <u>Shapes will stay intact.</u>
+          </p>
+        </li>
+        <li>
+          <p>
+            Export image - save image to file, with all shapes rendered over bitmap.
+          </p>
+        </li>
+        <li>
+          <p>
+            Change active region - allows to define &quot;active&quot; region of the image. Active region limits the area where you can place shapes and allows to apply some effects to the space outside of it (darken, blur, crop).
+          </p>
+        </li>
+        <li>
+          <p>
+            Stop changing active region - disables active region resizer.
+          </p>
+        </li>
+        <li>
+          <p>
+            Effect for inactive region - allows to select an effect that you want to apply to the area outside of the active region (keep it as is, blur, darken, crop).
+          </p>
+        </li>
+        <li>
+          <p>
+            Crop image to active region - crop the image so it will match the defined active region. Basically it is just &quot;Crop&quot; command from any other image editor. Operation is irreversible! Not applicable to cloned images.
+          </p>
+        </li>
+        <li>
+          <p>
+            Make this image a clone of... - allows to change the donor of the cloned image or turn the image into a cloned one.
+          </p>
+        </li>
+        <li>
+          <p>
+            Unclone - break the link between the clone and donor, the image will no longer update automatically when the donor image updates.
+          </p>
+        </li>
+      </ul>
+    </p>
+    <p>
+      <u/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

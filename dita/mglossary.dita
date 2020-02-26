@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="mglossary">
+  <title>Manage Glossary</title>
+  <body>
+    <p>
+      Helpinator allows you to create, manage and reference Glossary of terms specific to your project. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Glossary</title>
+        <image href="images/glossary.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      To insert a link to a glossary term use &quot;Glossary&quot; tab in the &quot;Insert Hyperlink&quot; editor dialog:
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Insert a glossary hyperlink</title>
+        <image href="images/glo-insert-hyper.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

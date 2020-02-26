@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="conditionalcompilation">
+  <title>Conditional compilation</title>
+  <body>
+    <p>
+      Conditional compilation allows you to modify Helpinator output based on values of user-defined variables.
+    </p>
+    <p>
+    </p>
+    <p>
+      It may be used in both of two ways:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            To skip portions of text
+          </p>
+        </li>
+        <li>
+          <p>
+            To skip one or more topics entirely.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      To skip/include portions of text Helpinator has built-in IF directive which has the following syntax:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Conditional Compilation</title>
+        <image href="images/eng-cond-text.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      In the first case IF clause allows to skip the text inside it when &quot;EDITION&quot; variable has &quot;PRO&quot; value.
+    </p>
+    <p>
+    </p>
+    <p>
+      In the second case the text will be skipped without any conditions. This makes COMMENT tag a good way for text reviews.
+    </p>
+    <p>
+    </p>
+    <p>
+      To skip a topic from output completely (e.g. even from TOC) there&apos;s &quot;Skip topic&quot; tab in the topic editor
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Skip the topic</title>
+        <image href="images/eng-ed-skip.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      In the case above Helpinator will skip the topic entirely when EDITION is NOT equal to &apos;PRO&apos;.
+    </p>
+    <p>
+      Other options include:
+    </p>
+    <p/>
+    <p>
+      <ul>
+        <li>
+          <p>
+            <b>Skip topic from certain formats</b>
+             - for example a topic contains video samples and you might not want it in PDF format (since it will be empty) so select &quot;Skip from formats&quot; and check &quot;PDF&quot;
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Skip always</b>
+             - always skip this topic, for example if it&apos;s not ready yet.
+          </p>
+        </li>
+      </ul>
+    </p>
+  </body>
+</topic>

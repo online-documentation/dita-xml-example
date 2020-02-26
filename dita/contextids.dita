@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="contextids">
+  <title>Context IDs</title>
+  <body>
+    <p>
+      <b>&quot;Context IDs&quot;</b>
+       tool allows you to review and edit Context IDs, used to connect help files topics with your application, in one list.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Context Ids</title>
+        <image href="images/contextid.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

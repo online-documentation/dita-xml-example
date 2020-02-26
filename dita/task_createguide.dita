@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="createguide">
+  <title>How to create a step-by-step guide</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Prepare images</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/imagelibtools.png"/>
+          </p>
+          <p>
+            Prepare images for your guide. You can add existing images to the image library, capture some screenshots or create cloned images. Add callouts using image editor to emphasize meaning of the corresponding step.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select guides node</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/guidesselected.png"/>
+          </p>
+          <p>
+            Select &quot;Step-by-step Guides&quot; node in the project tree view.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Add Guide&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/guidestools.png"/>
+          </p>
+          <p>
+            Click &quot;Add Guide&quot;. New guide dialog box appears.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Name your guide</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/guidename.png"/>
+          </p>
+          <p>
+            Give appropriate name to your guide. It is recommended to avoid use of spaces and special characters since this name will be used in &quot;SBS&quot; placeholder.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Create topic</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createtopic.png"/>
+          </p>
+          <p>
+            Check &quot;Add topic&quot; to automatically add topic with created guide. It will be added as the last topic in the project. You can use project tree drag and drop feature to put it in the correct place. 
+If you leave it unchecked then you need to manually insert &quot;SBS&quot; placeholder into desired topic.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Add images</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/addimages.png"/>
+          </p>
+          <p>
+            Click &quot;Add images&quot; button to add images for steps. You will be able to rearrange and rename steps later.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select images to add to the guide</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/selectimage.png"/>
+          </p>
+          <p>
+            Select images for steps. Images are taken from the project&apos;s image library. Check as many images as you wish.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>List of steps</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/steps.png"/>
+          </p>
+          <p>
+            The list of steps is at the left top corner of the guide editor. On top of the list there are tool buttons to edit it.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Give short names to each step</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/namesteps.png"/>
+          </p>
+          <p>
+            Click &quot;Rename&quot; to give appropriate titles for steps. 
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Put steps in the correct order</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/reordersteps.png"/>
+          </p>
+          <p>
+            Reorder steps using &quot;Up&quot; and &quot;Down&quot; buttons.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Add descriptive text for each step</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/addtext.png"/>
+          </p>
+          <p>
+            Write some descriptive text for each step. Be short, image should say for itself.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Set up guide options</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/guideoptions.png"/>
+          </p>
+          <p>
+            Guide options are at the left bottom row. Here you can select whether you want to add step numbers to step images, select color scheme to use for step numbers and where they should be located on the step image. Check &quot;Auto size&quot; if you want Helpinator to select size of the HTML box automatically, or set width and height manually.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

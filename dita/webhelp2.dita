@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="webhelp2">
+  <title>WebHelp - JqueryUI</title>
+  <body>
+    <p>
+      WebHelp - JQueryUI is a major overhaul of Classic WebHelp with the following aims:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Avoid usage of frames that are obsolete in HTML by now. 
+          </p>
+        </li>
+        <li>
+          <p>
+            Make it responsive.
+          </p>
+        </li>
+        <li>
+          <p>
+            Make it more SEO-friendly.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      General structure of WebHelp-JQueryUI matches that of Classic WebHelp, with &quot;Table Of Contents&quot;-&quot;Index&quot;-&quot;Search&quot; block on the left side, content block on the right plus customizable header and footer. But there are some differences as well:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Step-by-step guides now use different engine that is modern and responsive.
+          </p>
+        </li>
+        <li>
+          <p>
+            Code snippets highlighter is different too.
+          </p>
+        </li>
+        <li>
+          <p>
+            Images scale automatically when window size changes.
+          </p>
+        </li>
+        <li>
+          <p>
+            Web browser remembers last selected tab and width of the left sidebar.
+          </p>
+        </li>
+        <li>
+          <p>
+            Folder structure is now more neat with &quot;js&quot; subfolder for JavaScript, all images in &quot;images&quot; folder and the main folder containing only html files.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      You can find sample docs here: 
+      <xref href="http://www.helpinator.com/help/about.html" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      It looks like this:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>WebHelp2</title>
+        <image href="images/webhelp2demo.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

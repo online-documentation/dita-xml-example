@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="textsnippets">
+  <title>Text Snippets</title>
+  <body>
+    <p>
+      Text snippets are named reusable blocks of formatted text that you can create once and use in many topics. 
+      <b>Note</b>
+       that since version 3.19 Helpinator has dedicated content piece called &quot;Aside&quot; and you no longer are forced to use text snippets to create asides.
+    </p>
+    <p>
+    </p>
+    <p>
+      The picture below shows how to manage text snippets.
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Manage Text Snippets</title>
+        <image href="images/managetextsnip.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      There are two types of text snippets:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Simple pieces of formatted text
+          </p>
+        </li>
+        <li>
+          <p>
+            Parameterized snippets, that contain special placeholder TEXTFORSNIPPET which Helpinator replaces with text from the topic.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      Here&apos;s an example of the second type text snippet:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Edit text snippet</title>
+        <image href="images/edittextsnip.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

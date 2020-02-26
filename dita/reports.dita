@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reports">
+  <title>Reports</title>
+  <body>
+    <p>
+      Reports allow you to get summary information about your project and save/print it.
+    </p>
+    <p>
+    </p>
+    <p>
+      Currently Helpinator has the following predefined reports:
+    </p>
+    <p>
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            <b>Topic titles and IDs</b>
+            . Shows topic titles and corresponding Context IDs to reference specific topics from your app. Useful for communication between a tech writer and a developer.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Empty topics</b>
+            . Shows all empty topics in the project. Good to make sure all topics in your project have at least some text.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Tasks by topics</b>
+            . To manage tasks assigned to topics.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Project stats</b>
+            . Shows different project stats like number of topics, words and etc.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Topic structure</b>
+            . Prints topic tree.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Reports</title>
+        <image href="images/reports.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Reports - created report</title>
+        <image href="images/reports1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

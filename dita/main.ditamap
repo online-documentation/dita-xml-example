@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+  <booktitle>
+    <mainbooktitle>Helpinator</mainbooktitle>
+  </booktitle>
+  <bookmeta>
+    <authorinformation>
+      <organizationinfo>
+        <namedetails>
+          <organizationnamedetails>
+            <organizationname>Major Mind Software</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+        <emailaddresses/>
+        <urls/>
+      </organizationinfo>
+    </authorinformation>
+    <prodinfo>
+      <prodname>Helpinator</prodname>
+      <vrmlist>
+        <vrm version="3.23" release=""/>
+      </vrmlist>
+    </prodinfo>
+    <bookrights>
+      <copyrfirst>
+        <year/>
+      </copyrfirst>
+      <copyrlast>
+        <year/>
+      </copyrlast>
+      <bookowner>
+        <organization>Major Mind Software</organization>
+      </bookowner>
+    </bookrights>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc/>
+    </booklists>
+  </frontmatter>
+  <chapter href="about.dita">
+    <topicmeta>
+      <navtitle>About</navtitle>
+    </topicmeta>
+  </chapter>
+  <chapter href="benefits.dita">
+    <topicmeta>
+      <navtitle>Benefits</navtitle>
+    </topicmeta>
+  </chapter>
+  <chapter href="tutorial.dita">
+    <topicmeta>
+      <navtitle>Tutorial</navtitle>
+    </topicmeta>
+    <topicref href="startinganewproject.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Starting a new project</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="capturingscreenshots.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Capturing screenshots</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="addingcallouts.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Adding callouts</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="writingtopics.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Writing topics</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="creatingatutorialastepbystepguide.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Creating a tutorial (a step-by step guide</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="compilingahelpfile.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Compiling a help file</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="support.dita">
+    <topicmeta>
+      <navtitle>Support</navtitle>
+    </topicmeta>
+  </chapter>
+  <chapter href="order.dita">
+    <topicmeta>
+      <navtitle>Order</navtitle>
+    </topicmeta>
+  </chapter>
+  <chapter href="howto.dita">
+    <topicmeta>
+      <navtitle>How to...</navtitle>
+    </topicmeta>
+    <topicref href="task_newproject.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Start a new project</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_importexistingdocs.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Import existing documentation</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_capturescreenshots.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Capture screenshots</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="recapturescreenshots.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>REcapture screenshots</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="addannotationstoscreenshots.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Add annotations to screenshots</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="quicklyupdatescreenshotswhenuichanges.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Quickly update screenshots when UI changes</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_createguide.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Create step-by-step guides</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_createchm.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Create CHM help file</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_createpdf.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Create PDF and printed manuals</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_createwebhelp.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Create WebHelp</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_createqthelp.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Create QtHelp</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="createjavahelpandoraclehelp.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Create JavaHelp and OracleHelp</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_createepub.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Create EPUB and MOBI ebooks</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_embedvideo.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Embed Video from YouTube, Vimeo and etc</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="howtochangeorderandhierarchyoftopicsquickly.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Change order and hierarchy of topics quickly</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_createfaq.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Create a FAQ</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="task_createquiz.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>Create a Quiz</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="gettingstarted.dita">
+    <topicmeta>
+      <navtitle>Getting Started</navtitle>
+    </topicmeta>
+    <topicref href="uioverview.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>UI Overview</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="projectstructure.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Project Structure</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="outputformats.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Output Formats</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="project.dita">
+    <topicmeta>
+      <navtitle>Project</navtitle>
+    </topicmeta>
+    <topicref href="variables.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Variables</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="storagemodes.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Storage Modes</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="topicsandcontent.dita">
+    <topicmeta>
+      <navtitle>Topics and Content</navtitle>
+    </topicmeta>
+    <topicref href="managetopics.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Manage Topics</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="wysiwygeditor.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Classic Toolbar WYSIWYG Editor</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="tabbedtoolbareditor.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Tabbed Toolbar Editor</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="styles.dita">
+    <topicmeta>
+      <navtitle>Styles</navtitle>
+    </topicmeta>
+    <topicref href="textandparagraphstyles.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Text and Paragraph Styles</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="tablestyles.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Table Styles</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="shapestyles.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Shape Styles</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="guidestyles.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Guide Styles</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="mglossary.dita">
+    <topicmeta>
+      <navtitle>Manage Glossary</navtitle>
+    </topicmeta>
+  </chapter>
+  <chapter href="images.dita">
+    <topicmeta>
+      <navtitle>Images</navtitle>
+    </topicmeta>
+    <topicref href="managingimages.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Managing Images</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="imageeditor.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Image Editor</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="usingimages.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Using Images</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="clonedimages.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Cloned Images</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="pastefromclipboard.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Paste from Clipboard</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="howtoworkwithvideo.dita">
+    <topicmeta>
+      <navtitle>How to Work With Video</navtitle>
+    </topicmeta>
+  </chapter>
+  <chapter href="stepbystepguides.dita">
+    <topicmeta>
+      <navtitle>Step-by-step Guides</navtitle>
+    </topicmeta>
+    <topicref href="task_createguide.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>How to create a step-by-step guide</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="howtouseguidesintopics.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>How to use guides in topics</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="textsnippets.dita">
+    <topicmeta>
+      <navtitle>Text Snippets</navtitle>
+    </topicmeta>
+    <topicref href="howtousetextsnippets.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>How to use text snippets</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="codesnippets.dita">
+    <topicmeta>
+      <navtitle>Code Snippets</navtitle>
+    </topicmeta>
+    <topicref href="task_usesnippet.dita" type="task" format="dita">
+      <topicmeta>
+        <navtitle>How to use code snippets</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="codesnippetsinhelpfiles.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Code snippets in help files</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="templates.dita">
+    <topicmeta>
+      <navtitle>Templates</navtitle>
+    </topicmeta>
+    <topicref href="chmwebhelptemplates.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>HTML-based Templates</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="pdfrtfprinttemplates.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>PDF/RTF/Print Templates</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="tools.dita">
+    <topicmeta>
+      <navtitle>Tools</navtitle>
+    </topicmeta>
+    <topicref href="searchreplace.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Search and Replace</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="contextids.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Context IDs</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="screenshots.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Screenshots</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="globalspellcheck.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Global Spellcheck</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="imagetools.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Image Tools</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="checklinks.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Check Links</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="reimport.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>REImport</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="wordpressthemebuilder.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>WordPress Theme Builder</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="gifscreenrecorder.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>GIF Screen Recorder</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="reports.dita">
+    <topicmeta>
+      <navtitle>Reports</navtitle>
+    </topicmeta>
+  </chapter>
+  <chapter href="todolist.dita">
+    <topicmeta>
+      <navtitle>ToDo List</navtitle>
+    </topicmeta>
+  </chapter>
+  <chapter href="formats.dita">
+    <topicmeta>
+      <navtitle>Formats</navtitle>
+    </topicmeta>
+    <topicref href="chm.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>CHM</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="pdfrtf.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>PDF/RTF</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="webhelp.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Classic WebHelp</navtitle>
+      </topicmeta>
+      <topicref href="analyticsandsocialintegration.dita" type="topic" format="dita">
+        <topicmeta>
+          <navtitle>Analytics and Social Integration</navtitle>
+        </topicmeta>
+      </topicref>
+      <topicref href="customizingappearace.dita" type="topic" format="dita">
+        <topicmeta>
+          <navtitle>Adapt to your website</navtitle>
+        </topicmeta>
+      </topicref>
+      <topicref href="howtochangestyleoftheleftpane.dita" type="topic" format="dita">
+        <topicmeta>
+          <navtitle>How to Change Style of the Left Pane</navtitle>
+        </topicmeta>
+      </topicref>
+    </topicref>
+    <topicref href="webhelp2.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>WebHelp - JqueryUI</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="printedmanuals.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Printed Manuals</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="qthelp.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>QtHelp</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="javahelp.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>JavaHelp</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="epub.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>EPUB</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="mobi.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>MOBI</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="oraclehelp.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>OracleHelp</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="helpgui.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>HelpGUI</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="majormindhelp.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>MajorMindHelp</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="wordpresscms.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Wordpress CMS</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="knowledgebase.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Knowledge Base</navtitle>
+      </topicmeta>
+      <topicref href="understandingprofiles.dita" type="topic" format="dita">
+        <topicmeta>
+          <navtitle>Understanding Profiles</navtitle>
+        </topicmeta>
+      </topicref>
+    </topicref>
+    <topicref href="githubflavoredmarkdown.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>GitHub-flavored Markdown</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="simpledocserver.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>SimpleDocServer</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="litehelp.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>LiteHelp</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="leanpub.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>LeanPub</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="readthedocs.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>ReadTheDocs</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="untitledtopic.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>WebHelp - Bootstrap</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="advancedtopics.dita">
+    <topicmeta>
+      <navtitle>Advanced Topics</navtitle>
+    </topicmeta>
+    <topicref href="conditionalcompilation.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Conditional compilation</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="commandlinetool.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Command line tool</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="organizingtextreviews.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Organizing text reviews</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="batchcompile.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Batch Compile</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="majormindhelpviewer.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>MajorMindHelpViewer</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="localizinghelpfiles.dita">
+    <topicmeta>
+      <navtitle>Localizing help files</navtitle>
+    </topicmeta>
+    <topicref href="multiplelanguages.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Multiple languages</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="languagestrings.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Language strings</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="xmlimportexport0.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>XML Import/Export</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="quizzies.dita">
+    <topicmeta>
+      <navtitle>Quizzes</navtitle>
+    </topicmeta>
+    <topicref href="quizzieseditoroverview.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Quizzes Editor Overview</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="howtoembedaquiz.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>How to Embed a Quiz</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="la_helpinatorconcepts.dita" type="learningAssessment" format="dita">
+      <topicmeta>
+        <navtitle>Sample Quiz</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="faqlists.dita">
+    <topicmeta>
+      <navtitle>FAQ Lists</navtitle>
+    </topicmeta>
+    <topicref href="faqeditoroverview.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>FAQ Editor Overview</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="howtoembedafaq.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>How to Embed a FAQ</navtitle>
+      </topicmeta>
+    </topicref>
+    <topicref href="faq.dita" type="topic" format="dita">
+      <topicmeta>
+        <navtitle>Sample FAQ</navtitle>
+      </topicmeta>
+    </topicref>
+  </chapter>
+  <chapter href="quizanswers.dita">
+    <topicmeta>
+      <navtitle>Quiz Answers</navtitle>
+    </topicmeta>
+  </chapter>
+  <chapter href="glossary.dita">
+    <topicmeta>
+      <navtitle>Glossary</navtitle>
+    </topicmeta>
+  </chapter>
+  <backmatter>
+    <booklists>
+      <indexlist/>
+    </booklists>
+  </backmatter>
+</bookmap>

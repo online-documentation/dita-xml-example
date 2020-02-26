@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="searchreplace">
+  <title>Search and Replace</title>
+  <body>
+    <p>
+      &quot;Search and Replace&quot; tool allows you to get a list of topics where certain phrase appears and optionally replace those occurrences.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Search and Replace</title>
+        <image href="images/searchreplace.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      To replace a text everywhere in your project:
+    </p>
+    <p>
+      1. Check &quot;Replace&quot; option.
+    </p>
+    <p>
+      2. Enter text to replace &quot;text to find&quot; with.
+    </p>
+    <p>
+      3. Click &quot;Go&quot;
+    </p>
+  </body>
+</topic>

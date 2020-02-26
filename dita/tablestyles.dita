@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tablestyles">
+  <title>Table Styles</title>
+  <body>
+    <p>
+      Table styles allow you to keep the same table formatting in all topics.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Table Styles</title>
+        <image href="images/styles2.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      To use table style you can either select it in the &quot;Insert table&quot; dialog  or from &quot;Cell properties&quot; dialog of WYSIWYG topic editor.
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

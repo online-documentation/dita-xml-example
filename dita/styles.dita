@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="styles">
+  <title>Styles</title>
+  <body>
+    <p>
+      You can add named styles for virtually any object in Helpinator. Global named styles allow you to keep the same formatting everywhere and change the way items look in a matter of few clicks.
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Styles</title>
+        <image href="images/styles.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

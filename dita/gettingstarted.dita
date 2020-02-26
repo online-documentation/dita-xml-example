@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="gettingstarted">
+  <title>Getting Started</title>
+  <body>
+    <p>
+      This topic will help you to make quick start and learn basics of Helpinator in under a few minutes.
+    </p>
+    <p>
+    </p>
+    <p>
+      First off, take a look at 
+      <xref href="#t1FEC2228A9FD46D5A269416B146E79CA"/>
+      .
+    </p>
+    <p>
+      Next, learn Helpinator 
+      <xref href="#t20507BEB37F84C87BFF80F0241E7845A"/>
+      , what types of items does it contain?
+    </p>
+    <p>
+      Then 
+      <xref href="#tAB062A1F346446EA9F89E461F08632E7"/>
+      .
+    </p>
+    <p>
+      And finally know what 
+      <xref href="#t1C3168D712F3467CB0C1B3FE404E949A"/>
+       Helpinator supports and how to compile help files.
+    </p>
+  </body>
+</topic>

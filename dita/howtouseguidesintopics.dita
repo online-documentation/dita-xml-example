@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="howtouseguidesintopics">
+  <title>How to use guides in topics</title>
+  <body>
+    <p>
+      There&apos;s &quot;Insert step-by-step guide&quot; button on the topic editor toolbar.
+    </p>
+    <p>
+    </p>
+    <p>
+      Click on &quot;Insert step-by-step guide&quot; and select it from the drop-down list.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Insert a step-by-step guide</title>
+        <image href="images/useguide.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      When you select a guide, guide placeholder appears in the editor area in the position of cursor.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Placeholder for a step-by-step guide</title>
+        <image href="images/useguide2.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="createpdf">
+  <title>Create PDF and printed manuals</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Select &quot;PDF/RTF/Print templates&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createpdf.png"/>
+          </p>
+          <p>
+            First of all, let&apos;s check what template you can use for PDF output besides default template in your project.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Add template&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createpdf1.png"/>
+          </p>
+          <p>
+            Currently the list of templates cosists only of &quot;default.rtf&quot;, click &quot;+&quot; sign to add more templates.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select new template</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createpdf2.png"/>
+          </p>
+          <p>
+            &quot;Add template&quot; dialog appears. Now you can select from &quot;Built-in&quot; drop-down list. Template preview at the bottom updates automatically. Note &quot;For: PDF&quot; label below template name.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Set new templates for PDF and print</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createpdf3.png"/>
+          </p>
+          <p>
+            Select root node in the project tree view, then &quot;Templates&quot; tab and select new templates for PDF and PRINT. However you can keep &quot;default.rtf&quot; template, if it&apos;s good enough for you.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Compile PDF&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createpdf4.png"/>
+          </p>
+          <p>
+            Now you can click &quot;Compile PDF&quot; or &quot;Print&quot; buttons on the main tool bar to create a pdf file or send output to printer.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

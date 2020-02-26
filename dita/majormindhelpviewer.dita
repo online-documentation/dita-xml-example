@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="majormindhelpviewer">
+  <title>MajorMindHelpViewer</title>
+  <body>
+    <p>
+      MajorMindHelpViewer is a standalone context-sensitive help system viewer designed for use with help outputs generated in Helpinator. It has the following modes:
+    </p>
+    <p>
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            MajorMindHelp - in this mode the viewer shows MajorMindHelp help system generated in Helpinator. You can choose to show a local version or the one stored on an HTTP(S) server.
+          </p>
+        </li>
+        <li>
+          <p>
+            SimpleDocServer - in this mode you can specify an address of a SimpleDocServer server and show it&apos;s content as a context-sensitive help.
+          </p>
+        </li>
+        <li>
+          <p>
+            Free-form HTML mode - allows to show any HTML-based output of Helpinator as a context-sensitive help for your application. For example, you can make a context-sensitive help system out of topics published to Wordpress.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      You can use MajorMindHelpViewer to view HTML-based help systems that are published on your website. There are two blog posts covering this:
+    </p>
+    <p>
+      <xref href="https://www.helpinator.com/blog/2019/09/10/wordpress-for-context-sensitive-help/" scope="external"/>
+    </p>
+    <p>
+      <xref href="https://www.helpinator.com/blog/2019/09/22/knowledge-base-for-context-sensitive-help/" scope="external"/>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="codesnippets">
+  <title>Code Snippets</title>
+  <body>
+    <p>
+      Code snippets are portions of code or markup with syntax highlight. Helpinator allows you to manage code snippets using snippet library and embed them into topics using special placeholders. Though Helpinator is not intended to document source code, code snippets allow you to document APIs, HTML/XML samples and other supplementary code.
+    </p>
+    <p>
+    </p>
+    <p>
+      The picture below shows how to use code snippets manager.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Code Snippet Manager</title>
+        <image href="images/codesnippetmanager.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Code snippet editor allows you to view and edit code snippet with syntax highlighting. You can also change highlighting for the snippet.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Code Snippet</title>
+        <image href="images/codesnippet.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

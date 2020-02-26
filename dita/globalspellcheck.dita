@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="globalspellcheck">
+  <title>Global Spellcheck</title>
+  <body>
+    <p>
+      <b>&quot;Global Spellcheck&quot;</b>
+       tool allows you to check and fix spelling in all topics. Though Helpinator has check-as-you-type spellcheck in the topic editor, you might want to check all topics for example after you imported some documents using file import/export feature.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Global Spellcheck</title>
+        <image href="images/spell.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

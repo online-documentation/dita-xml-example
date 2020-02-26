@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE learningAssessment PUBLIC "-//OASIS//DTD DITA Learning Assessment//EN" "learningAssessment.dtd">
+<learningAssessment id="helpinatorconcepts">
+  <title>Sample Quiz</title>
+  <learningAssessmentbody>
+    <lcInteraction>
+      <lcSingleSelect2>
+        <lcQuestion2>
+          <p>
+            Do you know now what is Helpinator?
+          </p>
+        </lcQuestion2>
+        <lcAnswerOptionGroup2>
+          <lcAnswerOption2>
+            <lcAnswerContent2>
+              <p>
+                Screenshot tool
+              </p>
+            </lcAnswerContent2>
+          </lcAnswerOption2>
+          <lcAnswerOption2>
+            <lcAnswerContent2>
+              <p>
+                Text Editor
+              </p>
+            </lcAnswerContent2>
+          </lcAnswerOption2>
+          <lcAnswerOption2>
+            <lcAnswerContent2>
+              <p>
+                Help Authoring Tool
+              </p>
+            </lcAnswerContent2>
+            <lcCorrectResponse2/>
+          </lcAnswerOption2>
+        </lcAnswerOptionGroup2>
+      </lcSingleSelect2>
+    </lcInteraction>
+    <lcInteraction>
+      <lcSingleSelect2>
+        <lcQuestion2>
+          <p>
+            Check one or more answers.
+          </p>
+        </lcQuestion2>
+        <lcAnswerOptionGroup2>
+          <lcAnswerOption2>
+            <lcAnswerContent2>
+              <p>
+                Doctors
+              </p>
+            </lcAnswerContent2>
+          </lcAnswerOption2>
+          <lcAnswerOption2>
+            <lcAnswerContent2>
+              <p>
+                Novel Writers
+              </p>
+            </lcAnswerContent2>
+          </lcAnswerOption2>
+          <lcAnswerOption2>
+            <lcAnswerContent2>
+              <p>
+                Technical Writers
+              </p>
+            </lcAnswerContent2>
+            <lcCorrectResponse2/>
+          </lcAnswerOption2>
+          <lcAnswerOption2>
+            <lcAnswerContent2>
+              <p>
+                Software Developers
+              </p>
+            </lcAnswerContent2>
+            <lcCorrectResponse2/>
+          </lcAnswerOption2>
+        </lcAnswerOptionGroup2>
+      </lcSingleSelect2>
+    </lcInteraction>
+  </learningAssessmentbody>
+</learningAssessment>

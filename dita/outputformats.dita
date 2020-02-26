@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="outputformats">
+  <title>Output Formats</title>
+  <body>
+    <p>
+      Currently Helpinator supports the following output formats:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            MajorMindHelp - our own HTML-based help system 
+          </p>
+        </li>
+        <li>
+          <p>
+            LiteHelp - our own lightweight help system NOT based on HTML
+          </p>
+        </li>
+        <li>
+          <p>
+            SimpleDocServer
+          </p>
+        </li>
+        <li>
+          <p>
+            CHM (Microsoft HTML Help)
+          </p>
+        </li>
+        <li>
+          <p>
+            PDF (Adobe Acrobat)
+          </p>
+        </li>
+        <li>
+          <p>
+            RTF (Rich Text Format)
+          </p>
+        </li>
+        <li>
+          <p>
+            DOCX (Word 2010+)
+          </p>
+        </li>
+        <li>
+          <p>
+            Classic WebHelp (HTML based with navigation and 3 options: with frames, without frames and single page).
+          </p>
+        </li>
+        <li>
+          <p>
+            WebHelp-JqueryUI (responsive HTML without frames, uses JQuery UI as a UI framework)
+          </p>
+        </li>
+        <li>
+          <p>
+            WebHelp-Bootstrap (uses Bootstrap as a UI framework)
+          </p>
+        </li>
+        <li>
+          <p>
+            QtHelp (Qt library native help file format)
+          </p>
+        </li>
+        <li>
+          <p>
+            JavaHelp (Java native help file format)
+          </p>
+        </li>
+        <li>
+          <p>
+            EPUB - widespread ebook format
+          </p>
+        </li>
+        <li>
+          <p>
+            MOBI - Amazon Kindle format.
+          </p>
+        </li>
+        <li>
+          <p>
+            OracleHelp - help system from Oracle Inc
+          </p>
+        </li>
+        <li>
+          <p>
+            HelpGUI - a lightweight help system for Java
+          </p>
+        </li>
+        <li>
+          <p>
+            WordPress CMS
+          </p>
+        </li>
+        <li>
+          <p>
+            Github Flavoured Markdown (for readme.md of your projects, Github Wiki and Github pages).
+          </p>
+        </li>
+        <li>
+          <p>
+            Knowledge Base
+          </p>
+        </li>
+        <li>
+          <p>
+            Mobile Help - JQuery Mobile, touch-friendly output for displaying help on mobiles and tablets, based on JQuery Mobile.
+          </p>
+        </li>
+        <li>
+          <p>
+            Single Page HTML
+          </p>
+        </li>
+        <li>
+          <p>
+            LeanPub manuscripts
+          </p>
+        </li>
+        <li>
+          <p>
+            reStructuredText - for use with the excellent readthedocs.io service
+          </p>
+        </li>
+        <li>
+          <p>
+            ASCIIDoc - if you want to employ the power of ASCIIDoc/ASCIIDoctor documentation generators.
+          </p>
+        </li>
+        <li>
+          <p>
+            DITA - established documentation authoring standard with a lot of output formats and tools that support it.
+          </p>
+        </li>
+        <li>
+          <p>
+            Docbook - another industry standard documentation format.
+          </p>
+        </li>
+        <li>
+          <p>
+            Old good plain text to create good formatted readme.txt for your projects.
+          </p>
+        </li>
+      </ol>
+    </p>
+  </body>
+</topic>

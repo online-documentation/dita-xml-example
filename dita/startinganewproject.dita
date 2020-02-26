@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="startinganewproject">
+  <title>Starting a new project</title>
+  <body>
+    <p>
+      When you run Helpinator you see &quot;Welcome&quot; screen with links to documentation, blog and most common actions. Click on the &quot;New Project&quot; link. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>New project</title>
+        <image href="images/newproject0.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      &quot;New project&quot; dialog appears. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>New project - General tab</title>
+        <image href="images/tutorialnewprojectgeneral.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Enter project title here. If you plan to create multi-lingual project, it&apos;s a good time to click &quot;Add languages&quot; and select additional languages for this project.
+    </p>
+    <p>
+      Now select &quot;Topics and keywords&quot; tab. Enter topic titles and basic keywords. Don&apos;t worry if you can&apos;t think of any right now - you&apos;ll be able to add them at any time. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>New project - topics and keywords</title>
+        <image href="images/tutorialnewprojecttopics.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      On &quot;Templates&quot; tabs you can select predefined templates for different types of documentation. For now we&apos;ll leave default settings there.
+    </p>
+    <p>
+      When everything is ready click &quot;OK&quot;. Helpinator opens up newly created project.
+    </p>
+    <p>
+      Now let&apos;s select &quot;Variables&quot; tab and enter your product&apos;s and company name, version and year of the release. The first step is done. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Project variables</title>
+        <image href="images/tutorial-project-variables.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

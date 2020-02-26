@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="codesnippetsinhelpfiles">
+  <title>Code snippets in help files</title>
+  <body>
+    <p>
+      This is how a code snippet looks in CHM help file and WebHelp:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Code Snippet in a CHM</title>
+        <image href="images/snipchm.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      And in PDF/RTF/Printed Manuals:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Code Snippet in a PDF</title>
+        <image href="images/snippdf.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

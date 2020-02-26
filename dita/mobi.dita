@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="mobi">
+  <title>MOBI</title>
+  <body>
+    <p>
+      MOBI is a ebook format introduced by a company called Mobipocket. Now it is used in Amazon Kindle devices. Helpinator allows you to create MOBI ebooks with single mouse click.
+    </p>
+    <p>
+    </p>
+    <p>
+      To compile MOBI format ebooks you need KindleGen utility from Amazon:
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000765211" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      To compile MOBI ebook:
+    </p>
+    <p>
+      1. Donwload and install KindleGen
+    </p>
+    <p>
+      2. Run Helpinator, select Main Menu-&gt;Tools-&gt;Options, &quot;Compilers&quot; tab and enter path to KindleGen utility.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>KindleGen</title>
+        <image href="images/enoptionskindlecompiler.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      You might also need a MOBI viewer (Mobipocket Reader for example or 
+      <xref href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000765261" scope="external"/>
+      ).
+    </p>
+    <p>
+    </p>
+    <p>
+      Note that you can add a cover page image to your ebook (actually Amazon suggests you have one). Just put a file named syscoverpage.jpg into the project&apos;s image library and Helpinator will use it as a cover page for your ebook.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Kindle Book Preview</title>
+        <image href="images/en-kindle.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

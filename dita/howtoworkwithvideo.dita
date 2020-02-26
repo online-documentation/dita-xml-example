@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="howtoworkwithvideo">
+  <title>How to Work With Video</title>
+  <body>
+    <p>
+      From version 3.11 Helpinator allows you to embed video into topics. You can embed videos from video service providers like YouTube, Vimeo, DailyMotion or from local video files.
+    </p>
+    <p>
+    </p>
+    <p>
+      To start working with videos select &quot;Video&quot; node in the project tree view.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>&quot;Video&quot; tree node</title>
+        <image href="images/embedvideo1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      If there&apos;s no &quot;Video&quot; node click &quot;Show Videos&quot; on the tree view control bar on the left.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Tree filter for Video</title>
+        <image href="images/en-workwithvideo.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Video manager appears:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>The Video Manager</title>
+        <image href="images/en-workwithvideo1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      When you click &quot;+&quot; sign &quot;Add from files&quot; dialog appears. Click &quot;Add files&quot; to select one or more video files to add then click &quot;OK&quot;.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Add a video from file</title>
+        <image href="images/en-workwithvideo2.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      When you click on YouTube sign &quot;Add from URL&quot; dialog appears:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Add video from URL</title>
+        <image href="images/en-workwithvideo3.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      To insert video placeholder into a topic click on video icon on the topic editor toolbar.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Insert Video into a topic</title>
+        <image href="images/embedvideo3.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator inserts video placeholder in the position of caret. Now on compile time this placeholder will be replaced with your video.
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/embedvideo4.png" alt="embedvideo4.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Some formats like PDF or printed output do not support video. You can instruct Helpinator to replace video with a library image or a step-by-step guide via image properties.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Video in a topic editor</title>
+        <image href="images/embedvideo4.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

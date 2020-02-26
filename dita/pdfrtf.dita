@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="pdfrtf">
+  <title>PDF/RTF</title>
+  <body>
+    <p>
+      Helpinator generates PDF files with cover page, table of contents, glossary and index based on PDF/RTF template. TOC consists of hyperlinks, e.g. you can click on topic titles to go to corresponding topic. The same can be archived using navigation bookmarks tree on the left pane.
+    </p>
+    <p>
+      Pages have header and footer with page numbers.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>PDF - cover page</title>
+        <image href="images/pdf.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>PDF - Table of Contents</title>
+        <image href="images/pdf1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>PDF  - topic</title>
+        <image href="images/pdf2.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>PDF - index</title>
+        <image href="images/pdf3.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

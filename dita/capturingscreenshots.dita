@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="capturingscreenshots">
+  <title>Capturing screenshots</title>
+  <body>
+    <p>
+      Helpinator allows you to capture screenshots and automatically create topics with captured screenshots. Helpinator stores screenshots to the project&apos;s image library where you can manage/edit/update imges easily.
+    </p>
+    <p>
+      First select &quot;Screenshots&quot; node in the project tree view. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Screenshots - General tab</title>
+        <image href="images/tutorialscreenshot1.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Screenshots - Create topics and guides.</title>
+        <image href="images/tutorialscreenshot2.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Screenshots - Select what to capture.</title>
+        <image href="images/tutorialscreenshot3.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Make required settings as shown above and click &quot;Start&quot;. Now when you press hotkey combination Helpinator captures active window and stores it to the image library. We&apos;ll capture screenshots of main form, progress form and log.
+    </p>
+    <p>
+      Let&apos;s check created topics: 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Topics created by screenshot tool</title>
+        <image href="images/tutorialscreenshotcreatedtopics.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Newly added topics have the name of the captured window as a title, and a reference to the captured image stored in the image library.
+    </p>
+    <p>
+      Now, let&apos;s reorder created topics and and move them under &quot;UI&quot; node. Just drag and drop them to the &quot;UI&quot; node, then rearrange using &quot;up&quot; and &quot;down&quot; arrows on the toolbar. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Rearrange topics</title>
+        <image href="images/tutorialscreenshotrearrtopics.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Let&apos;s take a look at the library. Captured images are now there under &quot;ui&quot; category. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Image library</title>
+        <image href="images/tutorialscreenshotimagelib.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

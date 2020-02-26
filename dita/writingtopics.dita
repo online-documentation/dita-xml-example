@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="writingtopics">
+  <title>Writing topics</title>
+  <body>
+    <p>
+      Now let&apos;s write some introductory text. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Topic editor.</title>
+        <image href="images/tutorial-editor-1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Suppose our users live in a perfect world of sunshine and rainbows and never knew anything about satan. We need to explain this term. And again Helpinator is here to save you, it has built-in Glossary manager. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Glossary</title>
+        <image href="images/tutorialglossary.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      In the &quot;Add Glossary Terms&quot; dialog click on &quot;Import k/w&quot;, this will import project&apos;s keywords into glossary. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title/>
+        <image href="images/add-glossary-terms-empty.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Add glossary terms.</title>
+        <image href="images/add-glossary-terms.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Now you can write definitions for the terms added. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Write glossary term definition.</title>
+        <image href="images/glossary-write-text.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Let&apos;s go back to the topic editor and create a hyperlink for the glossary term. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Inerting a hyperlink</title>
+        <image href="images/tutorialeditorbeforehyperlink.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      In the &quot;Insert hyperlink&quot; dialog select the term to link to. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Insert hyperlink.</title>
+        <image href="images/tutorial-editor-glo-hyperlink.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>After hyperlink was inserted</title>
+        <image href="images/tutorial-editor-after-hyperlink.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Return to the topic editor. Now let&apos;s insert a &quot;Warning&quot; aside using the toolbar button. Later we will see how it will be rendered in the output. 
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Insert aside</title>
+        <image href="images/tutorialinsertaside.PNG" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

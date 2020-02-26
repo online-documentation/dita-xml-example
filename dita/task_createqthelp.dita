@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="createqthelp">
+  <title>Create QtHelp</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Download and install Qt SDK</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createqtdownload.png"/>
+          </p>
+          <p>
+            Download and install QtHelp SDK if you haven&apos;t already done so.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Set path to qthelpgenerator.exe</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/enoptionsqtcompiler.png"/>
+          </p>
+          <p>
+            Select Main Menu-&gt;Tools-&gt;Options and enter &quot;Path to QtSDK BIN folder&quot; where qthelpgenerator.exe is located.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select &quot;HTML-based templates&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-createqt.png"/>
+          </p>
+          <p>
+            Select &quot;HTML-based templates&quot; and check there&apos;s a template for QtHelp. Helpinator&apos;s default.html is QtHelp-compatible.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Add template&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-createqt1.png"/>
+          </p>
+          <p>
+            Click &quot;Add template&quot; if you are not satisfied with default template.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Check for QtHelp templates</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-createqt2.png"/>
+          </p>
+          <p>
+            Select templates that have &quot;For: QTHELP&quot; label.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Set QtHelp template</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-createqt3.png"/>
+          </p>
+          <p>
+            Select root node in the project tree view and browse to &quot;Templates&quot; tab, then select template for QtHelp from the drop-down list or leave default.html.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Compile QtHelp</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-createqt4.png"/>
+          </p>
+          <p>
+            Now you can click &quot;Compile QtHelp&quot; on the main tool bar to compile QtHelp help file.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

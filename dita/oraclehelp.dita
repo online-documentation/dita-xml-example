@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="oraclehelp">
+  <title>OracleHelp</title>
+  <body>
+    <p>
+      OracleHelp is a help system, developed by Oracle Inc. You can read more about it here:
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://www.oracle.com/technetwork/topics/index-083946.html" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      It consists of two parts:
+    </p>
+    <p>
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            OracleHelp for Java
+          </p>
+        </li>
+        <li>
+          <p>
+            OracleHelp for Web
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      Both parts use the same help file format (except Web version requires one more file) and Helpinator generates files that can be used with any of them.
+    </p>
+    <p>
+    </p>
+    <p>
+      To compile OracleHelp:
+    </p>
+    <p>
+    </p>
+    <p>
+      1. Download and install JDK
+    </p>
+    <p>
+    </p>
+    <p>
+      2. Download and extract OracleHelp SDK
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://www.oracle.com/technetwork/developer-tools/help/utilsoft-ohw-422139.html" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      3. Set Helpinator options
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/enoptionsoraclehelp.png" alt="enoptionsoraclehelp.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Now you can compile OracleHelp by clicking &quot;Compile OracleHelp&quot; button on the main toolbar.
+    </p>
+    <p>
+    </p>
+    <p>
+      Compiled OracleHelp looks like this.
+    </p>
+    <p>
+      Table of contents:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>OracleHelp Table Of Contents</title>
+        <image href="images/oraclehelp-contents.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Topic view (undocked)
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>QtHelp Topic Display</title>
+        <image href="images/oraclehelp-topic.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

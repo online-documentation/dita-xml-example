@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="createchm">
+  <title>Create CHM help file</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Install HTMLHELP.EXE</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createchm5.png"/>
+          </p>
+          <p>
+            First of all you need HTMLHELP.EXE (a tool from Microsoft that allows you to compile CHM help files). For your convinience it is packed in the same zip archive with Helpinator.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Check &quot;HTML-based templates&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createchm10.png"/>
+          </p>
+          <p>
+            Check &quot;HTML-based templates&quot; node of the project tree view. It has default.html template for CHM output but you can check for more built-in templates.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;+&quot; to add more CHM templates</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createchm6.png"/>
+          </p>
+          <p>
+            Click on green plus sign and &quot;Add template&quot; dialog opens.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select a template from the drop-down list</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createchm7.png"/>
+          </p>
+          <p>
+            Select a template from the drop-down list. A preview od compiled topic appears at the bottom. Note that there is &quot;For: CHM&quot; text below template title.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select added template from the drop-down list</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createchm8.png"/>
+          </p>
+          <p>
+            Now you need to activate your template. Select root node in the project tree view, browse to &quot;Templates&quot; tab and select template from the &quot;CHM&quot; drop-down.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Compile CHM&quot; on the main tool bar.</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createchm9.png"/>
+          </p>
+          <p>
+            Now you can click &quot;Compile CHM&quot; on the main tool bar and Helpinator will compile a CHM help file for you.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="clonedimages">
+  <title>Cloned Images</title>
+  <body>
+    <p>
+      Helpinator&#x2019;s &#x201C;Image Library&#x201D; allows you to create &#x201C;cloned&#x201D; images. What are they?
+    </p>
+    <p>
+      Let&#x2019;s say you have a big complicated tool bar in your application. You need to explain your users how to work with it, what buttons trigger specific actions, all grouped by specific tasks&#x2026; This probably will require a lot of copies of the toolbar image, each one with it&#x2019;s own callouts, arrows and text boxes, but all with the same background &#x2013; application toolbar.
+    </p>
+    <p>
+      Now suppose that during project evolution toolbar changes significantly &#x2013; updated icons, some new buttons. Now you need to update a bunch of images to reflect changes in the UI. That could be a nightmare! But not if you use Helpinator&#x2019;s image library and &#x201C;cloned&#x201D; images.
+    </p>
+    <p>
+      In the following example will&#x2019; take a look at one simple but very common situation. Suppose you have a set of images in your project, describing different parts of the toolbar, but all of them contain application name and version in the window title like this:
+    </p>
+    <p>
+      <image href="images/{264733B0-0907-4710-BF67-CFFF8D2A5163}.png" alt="{264733B0-0907-4710-BF67-CFFF8D2A5163}.png"/>
+    </p>
+    <p>
+      One image has callouts for language bar:
+    </p>
+    <p>
+      <image href="images/{C07702C6-836E-464D-BDB7-3F2906134B7C}.png" alt="{C07702C6-836E-464D-BDB7-3F2906134B7C}.png"/>
+    </p>
+    <p>
+      Another for compile buttons, and so on&#x2026;
+    </p>
+    <p>
+      <image href="images/{3737ADA8-A871-4A9C-A9D5-BA21C0DDFB78}.png" alt="{3737ADA8-A871-4A9C-A9D5-BA21C0DDFB78}.png"/>
+    </p>
+    <p>
+      We&#x2019;ll make the first one &#x201C;donor&#x201D; image and two other images will be cloned.
+    </p>
+    <p>
+      <fig>
+        <title>New cloned image</title>
+        <image href="images/newclonedimage.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+      Now suppose application version changes to 3.5. You need to update all those images. Luckily you have only one donor image and two clones, so you only need to update one image.
+    </p>
+    <p>
+      Select Tools-&gt;Replace Image when donor image is open in the editor.
+    </p>
+    <p>
+      <fig>
+        <title>Replace bitmap</title>
+        <image href="images/replacebitmap.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+      Now all cloned images are updated:
+    </p>
+    <p>
+      <image href="images/{B9F6839E-6B6B-4073-B60A-3981907DF019}.png" alt="{B9F6839E-6B6B-4073-B60A-3981907DF019}.png"/>
+    </p>
+    <p>
+      <image href="images/{24E4B81A-84E6-45BE-9470-B9064C2951C1}.png" alt="{24E4B81A-84E6-45BE-9470-B9064C2951C1}.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      There&apos;s also a handy feature that is called &quot;Active region&quot;. It allows to use only a square portion of the donor image. Define active region and set &quot;Effect for...&quot; to &quot;Crop&quot;.
+    </p>
+    <p>
+      <fig>
+        <title>Change active region</title>
+        <image href="images/imageactiveregion.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+      <b>Example.</b>
+    </p>
+    <p>
+      This image is the large donor image. But we do not need it as a whole, more than that, it will be discussed in different topics.
+    </p>
+    <p>
+      <fig>
+        <title>Donor</title>
+        <image href="images/cloneexampledonor.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+      So we can create two clones and define different active regions for them.
+    </p>
+    <p>
+      <fig>
+        <title>Clone 1</title>
+        <image href="images/cloneexampleclone1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Clone 2</title>
+        <image href="images/cloneexampleclone2.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

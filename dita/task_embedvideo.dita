@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="embedvideo">
+  <title>Embed Video from YouTube, Vimeo and etc</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Get HTML Embed Code from service provider</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/embedvideo.png"/>
+          </p>
+          <p>
+            First of all you need to get your video embed code from video service provider (YouTube in this case).
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select &quot;Video&quot; node</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/embedvideo1.png"/>
+          </p>
+          <p>
+            Select &quot;Video&quot; node in the project tree view.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Add video from YouTube&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/embedvideo2.png"/>
+          </p>
+          <p>
+            Click &quot;Add video from YouTube, Vimeo...&quot;
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Enter name and embed code</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-embedvideo.png"/>
+          </p>
+          <p>
+            Enter name to refer to this video and embed code from service provider.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Video appears in the video library</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-embedvideo1.png"/>
+          </p>
+          <p>
+            Now your video is in project&apos;s video library and you can embed it into topics.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Insert Video&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/embedvideo3.png"/>
+          </p>
+          <p>
+            Select a topic to insert video into, place cursor where you want your video to appear and click &quot;Insert Video&quot; on the editor tool bar.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Placeholder appears</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/embedvideo4.png"/>
+          </p>
+          <p>
+            Video placeholder appears in the position of cursor. Now Helpinator will insert your YouTube video into compiled documentation if the selected output format supports video. 
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

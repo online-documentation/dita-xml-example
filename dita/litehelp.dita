@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="litehelp">
+  <title>LiteHelp</title>
+  <body>
+    <p>
+      <b>LiteHelp</b>
+       is a lightweight help system created by Major Mind Software as a simple alternative to MajorMindHelp, WebHelp and other highly customizable help systems based on HTML.
+    </p>
+    <p>
+      It is based on XML, has a limited set of formatting options but has a rich set of embeddable objects supported by Helpinator:
+    </p>
+    <p>
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Figures
+          </p>
+        </li>
+        <li>
+          <p>
+            Step-by-step guides
+          </p>
+        </li>
+        <li>
+          <p>
+            Code Snippets
+          </p>
+        </li>
+        <li>
+          <p>
+            Videos
+          </p>
+        </li>
+        <li>
+          <p>
+            FAQs
+          </p>
+        </li>
+        <li>
+          <p>
+            Quizzes
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      LiteHelp format is basically a set of XML files, so there&apos;s no vendor lock-in and there are no security risks associated with HTML.
+    </p>
+    <p>
+    </p>
+    <p>
+      LiteHelpViewer is a viewer app for LiteHelp help system. It is a classic viewer with &quot;Contents&quot;, &quot;Index&quot; and &quot;Search&quot; tabs. The executable is portable and self-contained, you can distribute it with your application if your LiteHelp help system was generated with Helpinator.
+    </p>
+    <p>
+    </p>
+    <p>
+      You can read more about LiteHelp here: 
+      <xref href="http://www.helpinator.com/litehelp.html" scope="external"/>
+    </p>
+  </body>
+</topic>

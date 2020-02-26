@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="wordpresscms">
+  <title>Wordpress CMS</title>
+  <body>
+    <p>
+      Wordpress is the most popular CMS in the world. If your website is based on Wordpress and you need to organize online help for your product - you don&apos;t need to create separate WebHelp section on your website aside from Wordpress. With Helpinator you can publish directly to Wordpress and turn topics into pages (not posts!). So you can use all Wordpress features in your online help!
+    </p>
+    <p>
+    </p>
+    <p>
+      There&apos;s an in-depth tutorial on using Helpinator &quot;Publush to WordPress&quot; feature combined with Helpinator theme and Quick Publish plugin on Helpinator Blog:
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="https://www.helpinator.com/blog/2019/09/07/wordpress-for-online-documentation-how-to-use-helpinator-plugin-and-documentation-themes/" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      To publish your help file to Wordpress you need to set up your account information and select publishing options.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Publish to WordPress</title>
+        <image href="images/wordpress.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator operates &quot;profiles&quot; to manage Wordpress sites. You can have several profiles and publish documentation to several blogs (test site and the main product site, for example). Click &quot;+&quot; to add new profile and select profile name.
+    </p>
+    <p>
+    </p>
+    <p>
+      Then you need to enter account info:
+    </p>
+    <p/>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Blog host address
+          </p>
+        </li>
+        <li>
+          <p>
+            Blog &quot;endpoint&quot; (when xmlrpc.php file is in subfolder)
+          </p>
+        </li>
+        <li>
+          <p>
+            Whether to use HTTPS for connections
+          </p>
+        </li>
+        <li>
+          <p>
+            Username and password
+          </p>
+        </li>
+        <li>
+          <p>
+            &quot;Check connection&quot; button allows to test connection requisites
+          </p>
+        </li>
+      </ul>
+    </p>
+    <p>
+    </p>
+    <p>
+      Note that Helpinator does not store your password anywhere for security reasons. If you close Helpinator your password is lost.
+    </p>
+    <p>
+    </p>
+    <p>
+      Publishing settings:
+    </p>
+    <p>
+      1. Page template - select one of PAGE templates available in your Wordpress theme. Click &quot;Refresh&quot; button next to it to get a list of templates.
+    </p>
+    <p>
+      2. Parent Page - a page to assign root page of documentation to. Leave it blank to publish to the main menu. Click &quot;Refresh&quot; button next to it to get a list of pages.
+    </p>
+    <p>
+      3. Root page order. By default your documentation root page will be attached to the end of parent page child pages list. You can change this value to insert it into another place.
+    </p>
+    <p>
+    </p>
+    <p>
+      Click &quot;Save&quot; to save your account info (without publishing) or &quot;Publish&quot; to publish it right away.
+    </p>
+    <p>
+    </p>
+    <p>
+      Don&apos;t forget to save your project after you publish your documentation, otherwise you will NOT be able to republish it (e.g. overwrite altered topics).
+    </p>
+    <p>
+    </p>
+    <p>
+      Major Mind Software provides some useful WordPress plugins and themes for registered users of Helpinator:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Helpinator QuickPublish plugin - this plugin extends WordPress API to allow to publish content faster and also fixes the problem of WordPress API that disrupts image republish feature blocking image rewrite.
+          </p>
+        </li>
+        <li>
+          <p>
+            Helpinator WebHelp WordPress theme - documentation theme that resembles 
+            <xref href="#tA31044183A93405FAD73451502C3A006"/>
+             in look and feel.
+          </p>
+        </li>
+        <li>
+          <p>
+            Helpinator Modern Help WordPress theme - responsive theme for software documentation.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      You can download plugins and themes here: 
+      <xref href="http://www.helpinator.com/download.html#wordpress" scope="external"/>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="formats">
+  <title>Formats</title>
+  <body>
+    <p>
+      Helpinator supports the following output formats:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            CHM (Compiled HTML Help)
+          </p>
+        </li>
+        <li>
+          <p>
+            PDF
+          </p>
+        </li>
+        <li>
+          <p>
+            RTF (with some limitations)
+          </p>
+        </li>
+        <li>
+          <p>
+            WebHelp (Classic (with frames), based on JQuery UI framework, based on Bootstrap framework)
+          </p>
+        </li>
+        <li>
+          <p>
+            Knowledge Base
+          </p>
+        </li>
+        <li>
+          <p>
+            Printed manuals
+          </p>
+        </li>
+        <li>
+          <p>
+            QtHelp (Qt Library native help file format)
+          </p>
+        </li>
+        <li>
+          <p>
+            JavaHelp/OracleHelp (Java native help file format)
+          </p>
+        </li>
+        <li>
+          <p>
+            EPUB (e-books format)
+          </p>
+        </li>
+        <li>
+          <p>
+            MOBI (Kindle e-books format).
+          </p>
+        </li>
+        <li>
+          <p>
+            OracleHelp
+          </p>
+        </li>
+        <li>
+          <p>
+            HelpGUI
+          </p>
+        </li>
+        <li>
+          <p>
+            MajorMindHelp
+          </p>
+        </li>
+        <li>
+          <p>
+            LiteHelp
+          </p>
+        </li>
+        <li>
+          <p>
+            SimpleDocServer
+          </p>
+        </li>
+        <li>
+          <p>
+            LeanPub
+          </p>
+        </li>
+        <li>
+          <p>
+            GitHub-flavored Markdown (for ReadMe.MD, GitHub Pages and GitHub Wiki).
+          </p>
+        </li>
+        <li>
+          <p>
+            ReadTheDocs.org (reStructuredText)
+          </p>
+        </li>
+        <li>
+          <p>
+            Publish to Wordpress CMS
+          </p>
+        </li>
+        <li>
+          <p>
+            MobileHelp - JQuery Mobile
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      CHM, WebHelp, QtHelp, JavaHelp, EPUB and MOBI are all HTML-based and rely on HTML-based templates. JavaHelp uses reduced set of HTML features therefore it needs specially formatted HTML templates. EPUB/MOBI are book-oriented and HTML templates for them also differ in formatting and structure.
+    </p>
+    <p>
+    </p>
+    <p>
+      OracleHelp is an advanced HTML-based help system developed by Oracle Inc. It is multilingual, and can be used as a local help file and WebHelp using the same compiled project.
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="https://www.helpinator.com/majormindhelp.html" scope="external"/>
+       is a multilingual HTML-based help system for desktop Windows apps.
+    </p>
+    <p>
+      <xref href="https://www.helpinator.com/litehelp.html" scope="external"/>
+       is a lightweight portable non-HTML help system for desktop Windows apps.
+    </p>
+    <p>
+    </p>
+    <p>
+      Wordpress is the most popular CMS right now, so if you run your project website on this help system you don&apos;t need to mess with non-compatible webhelp systems, you can publish online documentation right to your CMS.
+    </p>
+    <p>
+    </p>
+    <p>
+      CHM is primarily Windows-based help file format, though there are some viewer implementations for other platforms too. WebHelp, QtHelp, JavaHelp, HelpGUI and OracleHelp are cross-platform formats.
+    </p>
+    <p>
+    </p>
+    <p>
+      PDF, RTF and printed manuals rely on RTF templates. PDF and Printed manuals are almost identical, except that Printed manuals are sent directly to printer and thus avoid image quality loss during compression. But PDF files have useful &quot;Outline&quot; with document structure and direct links to topics. RTF files are a limited version of PDF output, they do not have headers and footers.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Formats</title>
+        <image href="images/formats.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="newproject">
+  <title>Start a new project</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Click &quot;New project&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/newproject0.png"/>
+          </p>
+          <p>
+            Click &quot;New project&quot; on the toolbar on in the welcome screen
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Adjust General Settings</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/newproject1.png"/>
+          </p>
+          <p>
+            At this step you can select project default language and additional languages. You can also select storage mode and path to save your new project to.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Add Topics and Keywords</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/newproject2.png"/>
+          </p>
+          <p>
+            Here you can add some topics and keywords to start new project with. Use TABs for new levels.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Add Images</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/newproject3.png"/>
+          </p>
+          <p>
+            If you already have some captured screenshots you can add them to your project at this step. Click &quot;Add Images&quot; and select image files. You can also check &quot;Add topics&quot; to add new topics for each of the added images.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select Templates</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/newproject4.png"/>
+          </p>
+          <p>
+            Select templates for all supported formats. You can select from built-in templates or choose your own template stored outside of Helpinator installation.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

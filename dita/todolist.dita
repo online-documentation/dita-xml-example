@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="todolist">
+  <title>ToDo List</title>
+  <body>
+    <p>
+      Helpinator allows you to create and manage to-do lists - both for individual topics and the project as a whole. Using this little feature you are able to:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Control your tech writers. Of course, this is not a full-featured project planner app with team features, but good enough for small teams and interacting with contractors.
+          </p>
+        </li>
+        <li>
+          <p>
+            Keep your global to-do list free from small tasks associated with this project.
+          </p>
+        </li>
+        <li>
+          <p>
+            Go to the place where a task should be accomplished, without wasting time on finding it.
+          </p>
+        </li>
+        <li>
+          <p>
+            Never forget to to something on your project.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      There are two places to work with tasks:
+    </p>
+    <p>
+    </p>
+    <p>
+      1. &quot;ToDo&quot; tab at the bottom of the topic editor. This tab allows to add/manage tasks assigned to this topic.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Topic todos</title>
+        <image href="images/eng-ed-todo.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      2. Global project to-do list with all tasks from all topics and the project itself.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Global Tasks</title>
+        <image href="images/globaltasks.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      To add a task for the project itself, not a topic, click &quot;Add&quot; in this global list.
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      There&apos;s also a way to get printed version of your tasks list. Locate &quot;Tasks by topics&quot; report under &quot;Reports&quot; node and run it.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>&quot;Tasks by Topics&quot; report</title>
+        <image href="images/tasksbytopics.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

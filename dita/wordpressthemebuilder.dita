@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="wordpressthemebuilder">
+  <title>WordPress Theme Builder</title>
+  <body>
+    <p>
+      WordPress theme builder allows you to create a custom WordPress software documentation theme. The majority of WordPress themes do not suit software documentation well, Helpinator theme solves this problem. It makes your WordPress site look like a regular help file with tri-pane on the left featuring &quot;Table Of Contents&quot;, &quot;Index&quot; and &quot;Search&quot; and content area on the right.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>WordPress Theme Builder - Parameters</title>
+        <image href="images/wptheme1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>WordPress Theme Builder - Colors and Fonts</title>
+        <image href="images/wptheme2.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

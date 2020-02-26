@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="createwebhelp">
+  <title>Create WebHelp</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Select &quot;HTML-based templates&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-createwebhelp.png"/>
+          </p>
+          <p>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Add Template&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-createwebhelp1.png"/>
+          </p>
+          <p>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Check for WebHelp templates</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-createwebhelp2.png"/>
+          </p>
+          <p>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Set WebHelp template</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-createwebhelp3.png"/>
+          </p>
+          <p>
+            Select root node in the project tree view, then &quot;Templates&quot; tab and set WebHelp template (or leave default.html there).
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Create WebHelp&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/en-createwebhelp4.png"/>
+          </p>
+          <p>
+            Click &quot;Create WebHelp&quot; button on the main tool bar.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

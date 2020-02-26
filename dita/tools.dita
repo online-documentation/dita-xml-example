@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tools">
+  <title>Tools</title>
+  <body>
+    <p>
+      Helpinator has several built-in accompanying tools to make your help authoring process less frustrating. All of them are under &quot;Tools&quot; node of the project tree view.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Tools</title>
+        <image href="images/tools.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Currently Helpinator has the following tools:
+    </p>
+    <p>
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            <b>Search and Replace</b>
+            . Allows you to find and replace text string in all topics of your project.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Context IDs</b>
+            . Allows to edit all topic Context IDs in one place.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Screenshots</b>
+            . Allows to take screenshots, apply effects and store them to the project&apos;s image library.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Global Spellcheck</b>
+            . Check spelling in all topics of your project.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Image Tools</b>
+            . Group of tools for image processing.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Check Links</b>
+             - to find broken internal and external links.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>REImport</b>
+             - if a topic was imported from a file, you can import it again if an external file was changed.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>WordPress Theme Builder</b>
+             - helps you to create a specialized software documentation theme for WordPress.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>GIF Screen Recorder</b>
+             - allows to record short animated GIFs instead of static screenshots.
+          </p>
+        </li>
+      </ol>
+    </p>
+  </body>
+</topic>

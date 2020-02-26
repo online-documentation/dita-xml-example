@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="knowledgebase">
+  <title>Knowledge Base</title>
+  <body>
+    <p>
+      Knowledge base is a common documentation layout, without topic tree, or should we say, 2-level tree. There is no topic hierarchy, topics are grouped into &quot;Categories&quot;. The main page has links to all topics. It looks like this:
+    </p>
+    <p>
+    </p>
+    <p>
+      <image href="images/kbsample.png" alt="kbsample.png"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      To generate a Knowledge Base from an existing project you need to add &quot;kbdefault&quot; template to the project first.
+    </p>
+    <p>
+    </p>
+    <p>
+      There&apos;s a post on our blog that covers in more detail creation of knowledge bases with Helpinator: 
+      <xref href="https://www.helpinator.com/blog/2019/09/20/how-to-create-a-knowledge-base-with-step-by-step-guides/" scope="external"/>
+    </p>
+  </body>
+</topic>

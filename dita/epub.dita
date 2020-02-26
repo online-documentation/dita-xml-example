@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="epub">
+  <title>EPUB</title>
+  <body>
+    <p>
+      EPUB (from Wikipedia) (short for electronic publication; alternatively capitalized as ePub, ePUB, EPub, or epub, with &quot;EPUB&quot; preferred by the vendor) is a free and open e-book standard by the International Digital Publishing Forum (IDPF). Files have the extension .epub.
+    </p>
+    <p>
+    </p>
+    <p>
+      You can read more about this format:
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://en.wikipedia.org/wiki/EPUB" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://idpf.org/epub" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator allows you to create EPUB books with one mouse click. All you have to do is:
+    </p>
+    <p>
+    </p>
+    <p>
+      1. Select template for this format in project options.
+    </p>
+    <p>
+      2. Install one of the available EPUB viewers to preview compiled ebook. For example you can use CoolReader:
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://www.coolreader.org/" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      HTML Templates for EPUB/MOBI formats are different from those used in CHM/WebHelp/QtHelp/JavaHelp. Though they too have &lt;templatename.html&gt; and &lt;templatename.css&gt; files, their logical structure is different:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Default HTML file defines how a book page looks like.
+          </p>
+        </li>
+        <li>
+          <p>
+            There are 2 additional HTML files: front.html and toc.html, the first for &quot;front page&quot; with title, author and etc and the second is for the table of contents.
+          </p>
+        </li>
+        <li>
+          <p>
+            Default CSS file is for all 3 template HTML files.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

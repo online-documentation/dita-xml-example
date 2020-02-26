@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="faqlists">
+  <title>FAQ Lists</title>
+  <body>
+    <p>
+      Helpinator allows you to create and embed Frequently Asked Questions (FAQ) lists. Of course you can create FAQs with a regular topic editor, but it is not fully convenient and large FAQs are hard to manage this way. Helpinator has a specialised editor for FAQs and also renders FAQs as collapsible sections in case of HTML-compatible formats. See 
+      <xref href="#t72C2DB989C7F48D78DC8DF047285B9B2"/>
+       for example or check out a 
+      <xref href="#t1A7742BC33B047AC94CFE41E97B6537A"/>
+       on how to create FAQs using Helpinator.
+    </p>
+    <p>
+    </p>
+    <p>
+      You can add as many FAQ lists into your project as you wish. You may find it useful when you need to add FAQs at the end of each large chapter of documentation.
+    </p>
+    <p>
+      Each FAQ contains of sections that help to organize questions in it. Questions belong to sections. Answer text is like a regular topic, you can embed images, step-by-step guides or code snippets into FAQ answers. 
+    </p>
+  </body>
+</topic>

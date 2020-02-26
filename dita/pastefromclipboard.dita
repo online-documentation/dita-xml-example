@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="pastefromclipboard">
+  <title>Paste from Clipboard</title>
+  <body>
+    <p>
+      If you prefer to use another screenshot capture tool or just Windows 
+      <b>PrntScrn</b>
+       built-in function Helpinator allows to quickly add captured screenshot from the Clipboard. Just place the cursor in the topic editor where you want to place the screenshot and click &quot;Ctrl+Alt+V&quot; or select &quot;Paste Screenshot from Clipboard&quot; in the right-click pop-up menu.
+    </p>
+    <p>
+    </p>
+    <p>
+      &quot;Paste screenshot...&quot; dialog appears. Select image name, format and category, then click &quot;Paste&quot;.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Paste from Clipboard</title>
+        <image href="images/pastefromclipboard.PNG" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

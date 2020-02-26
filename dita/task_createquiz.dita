@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="createquiz">
+  <title>Create a Quiz</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Select &quot;Quizzes&quot; node</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createquiz1.png"/>
+          </p>
+          <p>
+            Select &quot;Quizzes&quot; node in the project tree view.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Add a new quiz</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createquiz2.png"/>
+          </p>
+          <p>
+            Click &quot;+&quot; button to add a new Quiz
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Open editor</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createquiz3.png"/>
+          </p>
+          <p>
+            Double click the newly create quiz to open quiz editor
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Add a question</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createquiz4.png"/>
+          </p>
+          <p>
+            Click &quot;+&quot; icon to add question, write question text in &quot;Question&quot; tab.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Set up answers</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createquiz5.png"/>
+          </p>
+          <p>
+            Select answers numbering, multiple correct answers and how options will be generated.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Embed into a topic</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/createquiz6.png"/>
+          </p>
+          <p>
+            Embed a quiz into a topic with &quot;QUIZ&quot; tag.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

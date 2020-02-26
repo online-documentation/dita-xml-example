@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="javahelp">
+  <title>JavaHelp</title>
+  <body>
+    <p>
+      JavaHelp (from Wikipedia) is both an application and a format for online help files that can be displayed by the JavaHelp browser.[1] It is written in Java, and is mainly used in Java applications. It can be used for any application and it does require the overhead of the JRE to load.
+    </p>
+    <p>
+    </p>
+    <p>
+      The file format is XML.
+    </p>
+    <p>
+    </p>
+    <p>
+      The GUI uses a tri-pane layout, with a toolbar and menu at the top, navigation pane on the left, and content viewer on the right. The navigation pane includes searching, indexing, and a table of contents.
+    </p>
+    <p>
+    </p>
+    <p>
+      Official website:
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://javahelp.java.net/" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      Helpinator allows you to create all required HTML and project files and automatically calls compiler that creates help file in JAR format.
+    </p>
+    <p>
+    </p>
+    <p>
+      To compile JavaHelp:
+    </p>
+    <p>
+      1. Download and install JDK.
+    </p>
+    <p>
+      2. Download and install JavaHelp SDK
+    </p>
+    <p>
+    </p>
+    <p>
+      <xref href="http://download.java.net/javadesktop/javahelp/javahelp2_0_05.zip" scope="external"/>
+    </p>
+    <p>
+    </p>
+    <p>
+      3. Run Helpinator, select Main Menu-&gt;Tools-&gt;Options and enter both paths to JDK and JavaHelp &quot;bin&quot; folders.
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>JavaHelp Compiler Options</title>
+        <image href="images/enoptionsjavahelpcompiler.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      Note that JavaHelp uses obsolete HTML viewer not capable of handling modern HTML features therefore it requires separate HTML template, default templates for CHM/WebHelp/QtHelp are not compatible with this output format.
+    </p>
+    <p>
+    </p>
+    <p>
+      Compiled JavaHelp file looks like this:
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>JavaHelp - Contents</title>
+        <image href="images/en-javahelp.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>JavaHelp - Index</title>
+        <image href="images/en-javahelp1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>JavaHelp - Search</title>
+        <image href="images/en-javahelp2.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+  </body>
+</topic>

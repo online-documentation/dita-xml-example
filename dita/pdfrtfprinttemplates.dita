@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="pdfrtfprinttemplates">
+  <title>PDF/RTF/Print Templates</title>
+  <body>
+    <p>
+      PDF/RTF/Print templates are generally RTF files with several reserved pages:
+    </p>
+    <p/>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Cover page. Will be rendered without header and footer. Here you can place your logo and project title.
+          </p>
+        </li>
+        <li>
+          <p>
+            Table of contents page. Has a number of lines, starting with LEVEL and followed by number indicating for which sublevel this line should be used. Top level topics are level 1 and so on.
+          </p>
+        </li>
+        <li>
+          <p>
+            Topic template. Ususally has only TITLE and CONTENT tags, TITLE will be replaced by topic title and CONTENT with topic content.
+          </p>
+        </li>
+        <li>
+          <p>
+            Glossary template. Has templates for the first letter, term and definition.
+          </p>
+        </li>
+        <li>
+          <p>
+            Index page template. This page will list keywords and numbers of pages where they appear.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>PDF/RTF templates</title>
+        <image href="images/rtftemplates.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Header, Footer and Cover page template</title>
+        <image href="images/rtftemplates1.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Table of Contents</title>
+        <image href="images/rtftemplates2.png" alt=""/>
+      </fig>
+    </p>
+    <p>
+    </p>
+    <p>
+      <fig>
+        <title>Page Template</title>
+        <image href="images/rtftemplates3.png" alt=""/>
+      </fig>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="importexistingdocs">
+  <title>Import existing documentation</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>
+          <b>Run &quot;Convert to Helpinator 3 Project&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/import.png"/>
+          </p>
+          <p>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select source type</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/import1.png"/>
+          </p>
+          <p>
+            First of all, select what you want to import.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select source files</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/import2.png"/>
+          </p>
+          <p>
+            Select source files (in case of old Helpinator project or CHM) OR source folder (in case of HHP and DOC/TXT/HTML files import).
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select destination project storage mode</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/import3.png"/>
+          </p>
+          <p>
+            Select destination project storage mode. Single file mode is more compact while &quot;Multiple files&quot; mode is good for version control systems - you can check in only those files that were altered, not entire project.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Enter destination path</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/import4.png"/>
+          </p>
+          <p>
+            Select path to save new project with imported data to.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Select default project language</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/import5.png"/>
+          </p>
+          <p>
+            Select default destination project file. You can add more languages later.
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>Click &quot;Run&quot;</b>
+        </cmd>
+        <info>
+          <p>
+            <image href="images/images/import6.png"/>
+          </p>
+          <p>
+            Clcick &quot;Run&quot; and wait for the process to finish. Now you can open destination file in Helpinator.
+          </p>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

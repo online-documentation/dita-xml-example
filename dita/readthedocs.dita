@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="readthedocs">
+  <title>ReadTheDocs</title>
+  <body>
+    <p>
+      ReadTheDocs.org is a nice service for delivering your online documentation to end users, it offers a clean documentation UI, relies on reStructuredText markup language and version control system as a backbone, and it is free. Read this blog post on how to generate ReadTheDocs source project from Helpinator: 
+      <xref href="https://www.helpinator.com/blog/2019/09/23/readthedocs-org-restructuredtext-and-helpinator/" scope="external"/>
+    </p>
+  </body>
+</topic>
